@@ -1,0 +1,2960 @@
+[
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 'Romeo ve Juliet'i kim yazdı?\ncevap: Shakespeare\nsoru: Frankland Cezaevi hangi İngiliz ilçesindedir?\ncevap:",
+    "full_llm_output": "Cumbria",
+    "true_answer": "Durham",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Cumbria",
+    "answer_token_ids": [
+      0,
+      37,
+      4893,
+      6309
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "C",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Cumbria",
+      "Cumbria",
+      "Cumbria",
+      "Cumbria",
+      "Cumbria",
+      "Cumbria",
+      "Cumbria",
+      "Cumbria",
+      "Cumbria",
+      "Cumbria",
+      "Cumbria"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: 1864'ten beri madeni paralarda ve resmi kabulünden bu yana banknotlarda yer alan, 30 Temmuz 1956'da Amerika Birleşik Devletleri'nin resmi mottosu haline gelen nedir?\ncevap:",
+    "full_llm_output": "In God We Trust",
+    "true_answer": "Tanrı'ya Güveniyoruz",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "In God We Trust",
+    "answer_token_ids": [
+      0,
+      1124,
+      2998,
+      1350,
+      15594
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "In",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "In God We Trust",
+      "In God We Trust",
+      "In God We Trust",
+      "In God We Trust",
+      "In God We Trust",
+      "In God We Trust",
+      "In God We Trust",
+      "In God We Trust",
+      "In God We Trust",
+      "In God We Trust",
+      "In God We Trust"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: Bir film senaryosunda, POV harfleri ne anlama gelir?\ncevap:",
+    "full_llm_output": "Point of View",
+    "true_answer": "Bakış Açısı",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Point of View",
+    "answer_token_ids": [
+      0,
+      10919,
+      294,
+      7288
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Point",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Point of View",
+      "Point of View",
+      "Point of View",
+      "Point of View",
+      "Point of View",
+      "Point of View",
+      "Point of View",
+      "Point of View",
+      "Point of View",
+      "Point of View",
+      "Point of View"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 'Romeo ve Juliet'i kim yazdı?\ncevap: Shakespeare\nsoru: Çizgi film karakteri Daffy Duck'ın ikinci ismi nedir?\ncevap:",
+    "full_llm_output": "Daffy",
+    "true_answer": "Dumas",
+    "classification": "HALLUCINATION",
+    "match_score": 0.2,
+    "match_type": "fuzzy_low",
+    "answer_text": "Daffy",
+    "answer_token_ids": [
+      0,
+      38,
+      3871,
+      91
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "D",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Daffy",
+      "Daffy",
+      "Daffy",
+      "Daffy",
+      "Daffy",
+      "Daffy",
+      "Daffy",
+      "Daffy",
+      "Daffy",
+      "Daffy",
+      "Daffy"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: Bir dalakotu hangi tür bir bitkidir?\ncevap:",
+    "full_llm_output": "Karayosunu",
+    "true_answer": "Eğrelti",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Karayosunu",
+    "answer_token_ids": [
+      0,
+      73731,
+      386,
+      376,
+      103246
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Kar",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.397747836928811,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Eğrelti otu",
+      "Eğrelti otu",
+      "Eğrelti otu",
+      "Eğrelti otu",
+      "Eğrelti otu",
+      "Eğrelti otu",
+      "Eğrelti otu",
+      "Eğrelti otu",
+      "Eğrelti otu",
+      "Eğrelti otu",
+      "Eğrelti otu"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: Crombie palto ve Harrington ceketleri hangi gençlik hareketini giydiriyor?\ncevap:",
+    "full_llm_output": "Mods",
+    "true_answer": "Skinhead",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Mods",
+    "answer_token_ids": [
+      0,
+      7579,
+      85
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Mod",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.07020188537676265,
+    "regular_entropy": 2.246996505571925,
+    "cluster_assignment_entropy": 0.47413931305783735,
+    "all_generations": [
+      "Mods",
+      "Mods",
+      "Mods",
+      "Mods",
+      "Mods",
+      "skinheads",
+      "Mods",
+      "Mods",
+      "skinheads",
+      "Mods",
+      "Mods"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 'Romeo ve Juliet'i kim yazdı?\ncevap: Shakespeare\nsoru: Sibirya'ya üç kez sürgün edilen, 1917'de Kerensky'yi devirmeye yönelik planda aktif olan ve Rusya Komünist Partisi Genel Sekreteri olan kimdir?\ncevap:",
+    "full_llm_output": "Trotsky",
+    "true_answer": "Stalin",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Trotsky",
+    "answer_token_ids": [
+      0,
+      54,
+      40275,
+      5701
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "T",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.6660046384959561,
+    "regular_entropy": 2.2602572647877714,
+    "cluster_assignment_entropy": 0.6554817739013927,
+    "all_generations": [
+      "Trotsky",
+      "Stalin",
+      "Trotsky",
+      "Stalin",
+      "Stalin",
+      "Stalin",
+      "Stalin",
+      "Stalin",
+      "Trotsky",
+      "Stalin",
+      "Trotsky"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: Hangi golfçü Altın Ayı lakabıyla anılıyor?\ncevap:",
+    "full_llm_output": "Tiger Woods",
+    "true_answer": "Jack Nicklaus",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Tiger Woods",
+    "answer_token_ids": [
+      0,
+      54,
+      10131,
+      44060
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "T",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Tiger Woods",
+      "Tiger Woods",
+      "Tiger Woods",
+      "Tiger Woods",
+      "Tiger Woods",
+      "Tiger Woods",
+      "Tiger Woods",
+      "Tiger Woods",
+      "Tiger Woods",
+      "Tiger Woods",
+      "Tiger Woods"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Doğal gazın ana bileşeni nedir?\ncevap: Metan\nsoru: Samuel West'in anne ve yönetmeni kimdir?\ncevap:",
+    "full_llm_output": "Timothy West",
+    "true_answer": "Prunella scales",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Timothy West",
+    "answer_token_ids": [
+      0,
+      32049,
+      25045,
+      5937
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Tim",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.4733381802718637,
+    "regular_entropy": 2.2009906273634914,
+    "cluster_assignment_entropy": 0.6554817739013927,
+    "all_generations": [
+      "Timothy West",
+      "Timothy West",
+      "Samuel West",
+      "Timothy West",
+      "Timothy West",
+      "Samuel West",
+      "Samuel West",
+      "Timothy West",
+      "Timothy West  ",
+      "Samuel West",
+      "Timothy West"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: Aston Villa kalecisi Brad Guzan hangi ulusu temsil ediyor?\ncevap:",
+    "full_llm_output": "Amerika Birleşik Devletleri",
+    "true_answer": "ABD",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Amerika Birleşik Devletleri",
+    "answer_token_ids": [
+      0,
+      123484,
+      6183,
+      35531,
+      302,
+      13285,
+      635,
+      11099,
+      1775,
+      91948
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Amer",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.5748447006012409,
+    "regular_entropy": 2.358928208693199,
+    "cluster_assignment_entropy": 0.6554817739013927,
+    "all_generations": [
+      "ABD",
+      "Amerika Birleşik Devletleri",
+      "ABD",
+      "Amerika Birleşik Devletleri",
+      "ABD",
+      "Amerika Birleşik Devletleri",
+      "ABD",
+      "ABD",
+      "Amerika Birleşik Devletleri",
+      "ABD",
+      "ABD"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Doğal gazın ana bileşeni nedir?\ncevap: Metan\nsoru: Thomas Kupası için hangi sporda yarışıyorlar?\ncevap:",
+    "full_llm_output": "Yelken",
+    "true_answer": "Badminton",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Yelken",
+    "answer_token_ids": [
+      0,
+      59,
+      317,
+      4490
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Y",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.6044235284565409,
+    "regular_entropy": 2.33184614164755,
+    "cluster_assignment_entropy": 0.6890092384766586,
+    "all_generations": [
+      "Yelken",
+      "Yelken",
+      "Kriket",
+      "Kriket",
+      "Yelken",
+      "Yelken",
+      "Kriket",
+      "Kriket",
+      "Yelken",
+      "Kriket",
+      "Yelken"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 'Romeo ve Juliet'i kim yazdı?\ncevap: Shakespeare\nsoru: Robert Louis Stevenson'ın hangi romanı ilk olarak 'Deniz Şefi' başlığıyla yayımlandı?\ncevap:",
+    "full_llm_output": "Define Adası",
+    "true_answer": "Treasure Island",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Define Adası",
+    "answer_token_ids": [
+      0,
+      75810,
+      1908,
+      118152
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Define",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.3628230681496596,
+    "regular_entropy": 2.335058213746566,
+    "cluster_assignment_entropy": 0.47413931305783735,
+    "all_generations": [
+      "Define",
+      "Hazine Adası",
+      "Hazine Adası",
+      "Hazine Adası",
+      "Hazine Adası",
+      "Hazine Adası",
+      "Hazine Adası",
+      "Hazine Adası",
+      "Hazine Adası",
+      "Define",
+      "Hazine Adası"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 64'ün karekökü kaçtır?\ncevap: Sekiz\nsoru: Hangi Amerikalı Şef, 1877'de Nebraska'daki Fort Robinson'da ateşkes bayrağı altında bıçaklandı ve sonrasında öldü?\ncevap:",
+    "full_llm_output": "Crazy Horse",
+    "true_answer": "Çılgın At",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Crazy Horse",
+    "answer_token_ids": [
+      0,
+      78618,
+      3616,
+      43206
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Cra",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Crazy Horse",
+      "Crazy Horse",
+      "Crazy Horse",
+      "Crazy Horse",
+      "Crazy Horse",
+      "Crazy Horse",
+      "Crazy Horse",
+      "Crazy Horse",
+      "Crazy Horse",
+      "Crazy Horse",
+      "Crazy Horse"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Doğal gazın ana bileşeni nedir?\ncevap: Metan\nsoru: Yuvarlak Masa'nın hain şövalyesi kimdi?\ncevap:",
+    "full_llm_output": "Sir Kay",
+    "true_answer": "Mordred",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Sir Kay",
+    "answer_token_ids": [
+      0,
+      49328,
+      35453
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Sir",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.02185223313067303,
+    "regular_entropy": 2.3165842011157083,
+    "cluster_assignment_entropy": 0.30463609734923813,
+    "all_generations": [
+      "Mordred",
+      "Mordred",
+      "Mordred",
+      "Mordred",
+      "Sir Kay",
+      "Mordred",
+      "Mordred",
+      "Mordred",
+      "Mordred",
+      "Mordred",
+      "Mordred"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: \"Kubla Khan\"ı hangi İngiliz şair yazmıştır?\ncevap:",
+    "full_llm_output": "Coleridge",
+    "true_answer": "Samuel Taylor Coleridge",
+    "classification": "HALLUCINATION",
+    "match_score": 0.28125,
+    "match_type": "fuzzy_low",
+    "answer_text": "Coleridge",
+    "answer_token_ids": [
+      0,
+      4816,
+      264,
+      27721
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Col",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Coleridge",
+      "Coleridge",
+      "Coleridge",
+      "Coleridge",
+      "Coleridge",
+      "Coleridge",
+      "Coleridge",
+      "Coleridge",
+      "Coleridge",
+      "Coleridge",
+      "Coleridge"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 64'ün karekökü kaçtır?\ncevap: Sekiz\nsoru: \"Shall We Dance\" şarkısı hangi müzikalden alınmıştır?\ncevap:",
+    "full_llm_output": "The King and I",
+    "true_answer": "Kral ve Ben",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "The King and I",
+    "answer_token_ids": [
+      0,
+      671,
+      6272,
+      305,
+      342
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "The",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "The King and I",
+      "The King and I",
+      "The King and I",
+      "The King and I",
+      "The King and I",
+      "The King and I",
+      "The King and I",
+      "The King and I",
+      "The King and I",
+      "The King and I",
+      "The King and I"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 'Romeo ve Juliet'i kim yazdı?\ncevap: Shakespeare\nsoru: Timbrology eski bir isim olarak ne anlama geliyordu?\ncevap:",
+    "full_llm_output": "Zaman ölçümü",
+    "true_answer": "Pul koleksiyonculuğu",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Zaman ölçümü",
+    "answer_token_ids": [
+      0,
+      60,
+      13727,
+      16943,
+      78,
+      2341,
+      65407,
+      2134
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Z",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.6721052581159976,
+    "regular_entropy": 2.2837850645452713,
+    "cluster_assignment_entropy": 0.6890092384766586,
+    "all_generations": [
+      "Timbuktu",
+      "Zaman ölçümü",
+      "Timbuktu",
+      "Timbuktu",
+      "Timbuktu",
+      "Timbuktu",
+      "Zaman ölçümü",
+      "Timbuktu",
+      "Zaman ölçümü",
+      "Zaman ölçümü",
+      "Zaman ölçümü"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: Formula 1 dünya şampiyonları James Hunt, Nigel Mansell, Damon Hill, Lewis Hamilton ve Jenson Button hangi ülkeden?\ncevap:",
+    "full_llm_output": "İngiltere",
+    "true_answer": "Birleşik Krallık",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "İngiltere",
+    "answer_token_ids": [
+      0,
+      59299,
+      992,
+      9718,
+      71
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "İ",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "İngiltere",
+      "İngiltere",
+      "İngiltere",
+      "İngiltere",
+      "İngiltere",
+      "İngiltere",
+      "İngiltere",
+      "İngiltere",
+      "İngiltere",
+      "İngiltere",
+      "İngiltere"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Doğal gazın ana bileşeni nedir?\ncevap: Metan\nsoru: 1.792 fit yüksekliğinde olan ve 2013 yılında açılan One World Trade Centre olarak bilinen bina, genellikle hangi başka isimle bilinir?\ncevap:",
+    "full_llm_output": "Özgürlük Kulesi",
+    "true_answer": "FREEDOM Tower",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Özgürlük Kulesi",
+    "answer_token_ids": [
+      0,
+      25070,
+      83565,
+      5421,
+      78,
+      52284,
+      657,
+      4249,
+      75
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Ö",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Özgürlük Kulesi",
+      "Özgürlük Kulesi",
+      "Özgürlük Kulesi",
+      "Özgürlük Kulesi",
+      "Özgürlük Kulesi",
+      "Özgürlük Kulesi",
+      "Özgürlük Kulesi",
+      "Özgürlük Kulesi",
+      "Özgürlük Kulesi",
+      "Özgürlük Kulesi",
+      "Özgürlük Kulesi"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 'Romeo ve Juliet'i kim yazdı?\ncevap: Shakespeare\nsoru: Utegate, hangi ülkenin başbakanı ve bir araba satıcısının karıştığı siyasi skandaldı?\ncevap:",
+    "full_llm_output": "Japonya",
+    "true_answer": "Avustralya",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Japonya",
+    "answer_token_ids": [
+      0,
+      44,
+      630,
+      4517,
+      67
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "J",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Avustralya",
+      "Avustralya",
+      "Avustralya",
+      "Avustralya",
+      "Avustralya",
+      "Avustralya",
+      "Avustralya",
+      "Avustralya",
+      "Avustralya",
+      "Avustralya",
+      "Avustralya"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 64'ün karekökü kaçtır?\ncevap: Sekiz\nsoru: \"Tarantula\" hangi şarkıcının tek romanıdır?\ncevap:",
+    "full_llm_output": "Mick Jagger",
+    "true_answer": "Bob Dylan",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Mick Jagger",
+    "answer_token_ids": [
+      0,
+      47,
+      1193,
+      552,
+      17343
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "M",
+        "prob": 1.0,
+        "logprob": 0.0
+      },
+      {
+        "token": "A",
+        "prob": 3.720075976020836e-44,
+        "logprob": -9999.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.7849991745253492,
+    "regular_entropy": 2.1887670239877997,
+    "cluster_assignment_entropy": 1.0361987848192837,
+    "all_generations": [
+      "Bowie",
+      "Nick Cave",
+      "Nick Cave",
+      "Nick Cave",
+      "Bowie",
+      "Bowie",
+      "Mick Jagger",
+      "Bowie",
+      "Bowie",
+      "Nick Cave",
+      "Mick Jagger"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 3
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: 17. yüzyılın ortalarında kurulduğunda, hangi İngiliz alayı ilk olarak Monks Regimen of Foot (Yaya Keşişler Alayı) olarak biliniyordu?\ncevap:",
+    "full_llm_output": "Kraliyet İskoç Alayı",
+    "true_answer": "Coldstream Muhafızları",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Kraliyet İskoç Alayı",
+    "answer_token_ids": [
+      0,
+      45,
+      1985,
+      10042,
+      319,
+      50434,
+      79591,
+      2341,
+      1582,
+      386,
+      6363
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "K",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.7315815735182363,
+    "regular_entropy": 2.30710490005466,
+    "cluster_assignment_entropy": 0.9075352941050092,
+    "all_generations": [
+      "Kraliyet İskoç Alayı",
+      "Coldstream Muhafızları",
+      "Kraliyet İskoç Alayı",
+      "Coldstream Muhafızları",
+      "Coldstream Muhafızları",
+      "Coldstream Guards",
+      "Coldstream Muhafızları",
+      "Coldstream Muhafızları",
+      "Coldstream Muhafızları",
+      "Coldstream Muhafızları",
+      "Coldstream Guards"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 3
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: Yaz üçgeninin bir parçası olan çok parlak yıldız Vega'nın bulunduğu kuzey yarımküredeki takımyıldızının adı nedir?\ncevap:",
+    "full_llm_output": "Lir",
+    "true_answer": "Lyra",
+    "classification": "HALLUCINATION",
+    "match_score": 0.2857142857142857,
+    "match_type": "fuzzy_low",
+    "answer_text": "Lir",
+    "answer_token_ids": [
+      0,
+      46,
+      388
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "L",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.12638379585529996,
+    "regular_entropy": 2.365221034718267,
+    "cluster_assignment_entropy": 0.30463609734923813,
+    "all_generations": [
+      "Lir",
+      "Lir",
+      "Lir",
+      "Lir",
+      "Lir",
+      "Lir",
+      "Lir",
+      "Lir",
+      "Lir",
+      "Lira",
+      "Lir"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: Hangi model \"66'nın Yüzü\" olarak tanımlandı?\ncevap:",
+    "full_llm_output": "Ford Mustang",
+    "true_answer": "Twiggy",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Ford Mustang",
+    "answer_token_ids": [
+      0,
+      96249,
+      25023,
+      555
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Ford",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Ford Mustang",
+      "Ford Mustang",
+      "Ford Mustang",
+      "Ford Mustang",
+      "Ford Mustang",
+      "Ford Mustang",
+      "Ford Mustang",
+      "Ford Mustang",
+      "Ford Mustang",
+      "Ford Mustang",
+      "Ford Mustang"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 'Romeo ve Juliet'i kim yazdı?\ncevap: Shakespeare\nsoru: 1980 Boat Race'de Cambridge için kürek çeken aktör, komedyen, yazar ve müzisyen hangisidir?\ncevap:",
+    "full_llm_output": "Stephen Fry",
+    "true_answer": "Hugh Laurie",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Stephen Fry",
+    "answer_token_ids": [
+      0,
+      72478,
+      57611
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Stephen",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Stephen Fry",
+      "Stephen Fry",
+      "Stephen Fry",
+      "Stephen Fry",
+      "Stephen Fry",
+      "Stephen Fry",
+      "Stephen Fry",
+      "Stephen Fry",
+      "Stephen Fry",
+      "Stephen Fry",
+      "Stephen Fry"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Doğal gazın ana bileşeni nedir?\ncevap: Metan\nsoru: Kalsiyum karbonat hangi yaygın isimle bilinir?\ncevap:",
+    "full_llm_output": "Kireç taşı",
+    "true_answer": "Tebeşir",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Kireç taşı",
+    "answer_token_ids": [
+      0,
+      45,
+      687,
+      2341,
+      7875,
+      125111
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "K",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Kireç taşı",
+      "Kireç taşı",
+      "Kireç taşı",
+      "Kireç taşı",
+      "Kireç taşı",
+      "Kireç taşı",
+      "Kireç taşı",
+      "Kireç taşı",
+      "Kireç taşı",
+      "Kireç taşı",
+      "Kireç taşı"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 'Romeo ve Juliet'i kim yazdı?\ncevap: Shakespeare\nsoru: Harold Sakata, Olimpiyatlarda halterde gümüş madalya kazandı, ancak hangi James Bond filminde canlandırdığı kötü adam rolüyle daha ünlü oldu?\ncevap:",
+    "full_llm_output": "Altın Parmak",
+    "true_answer": "Oddjob",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Altın Parmak",
+    "answer_token_ids": [
+      0,
+      29609,
+      25372,
+      62843,
+      480
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Alt",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.3174160150406959,
+    "regular_entropy": 2.397706823190078,
+    "cluster_assignment_entropy": 0.30463609734923813,
+    "all_generations": [
+      "Goldfinger",
+      "Altın Parmak",
+      "Altın Parmak",
+      "Altın Parmak",
+      "Altın Parmak",
+      "Altın Parmak",
+      "Altın Parmak",
+      "Altın Parmak",
+      "Altın Parmak",
+      "Altın Parmak",
+      "Altın Parmak"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 'Romeo ve Juliet'i kim yazdı?\ncevap: Shakespeare\nsoru: 2003 yılında \"Neredeyse Her Şeyin Kısa Tarihi\" kitabını kim yazmıştır?\ncevap:",
+    "full_llm_output": "Stephen Hawking",
+    "true_answer": "Bill Bryson",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Stephen Hawking",
+    "answer_token_ids": [
+      0,
+      72478,
+      14510,
+      9886
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Stephen",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.5522755858937346,
+    "regular_entropy": 2.370154896763746,
+    "cluster_assignment_entropy": 0.5859526183035508,
+    "all_generations": [
+      "Bill Bryson",
+      "Bill Bryson",
+      "Bill Bryson",
+      "Stephen Hawking",
+      "Bill Bryson",
+      "Bill Bryson",
+      "Bill Bryson",
+      "Stephen Hawking",
+      "Bill Bryson",
+      "Stephen Hawking",
+      "Bill Bryson"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Doğal gazın ana bileşeni nedir?\ncevap: Metan\nsoru: İngiliz kıyılarında bulunan meşe palamudu ve kaz olmak üzere iki çeşidi bulunan yumuşakça hangisidir?\ncevap:",
+    "full_llm_output": "Midye",
+    "true_answer": "Barnacle",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Midye",
+    "answer_token_ids": [
+      0,
+      51268,
+      8863
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Mid",
+        "prob": 1.0,
+        "logprob": 0.0
+      },
+      {
+        "token": "A",
+        "prob": 3.720075976020836e-44,
+        "logprob": -9999.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.5983636706769231,
+    "regular_entropy": 2.365631581395777,
+    "cluster_assignment_entropy": 0.6554817739013927,
+    "all_generations": [
+      "Midye",
+      "Midye",
+      "midye",
+      "midye",
+      "Midye",
+      "Midye",
+      "midye",
+      "midye",
+      "Midye",
+      "Midye",
+      "Midye"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: Elbert Dağı hangi ABD eyaletinde bulunur?\ncevap:",
+    "full_llm_output": "Alaska",
+    "true_answer": "Colorado",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Alaska",
+    "answer_token_ids": [
+      0,
+      3509,
+      19744
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Al",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Alaska",
+      "Alaska",
+      "Alaska",
+      "Alaska",
+      "Alaska",
+      "Alaska",
+      "Alaska",
+      "Alaska",
+      "Alaska",
+      "Alaska",
+      "Alaska"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: Bir aktörün düşüncelerini yüksek sesle söyleyerek seyirciye hitap ettiği monologu tanımlayan kelime hangisidir?\ncevap:",
+    "full_llm_output": "Soliloquy",
+    "true_answer": "Monolog",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Soliloquy",
+    "answer_token_ids": [
+      0,
+      47771,
+      21360,
+      403,
+      91
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Sol",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.22011586167681374,
+    "regular_entropy": 2.2418166721591817,
+    "cluster_assignment_entropy": 0.5859526183035508,
+    "all_generations": [
+      "Soliloquy",
+      "soliloquy",
+      "Soliloquy",
+      "Soliloquy",
+      "Soliloquy",
+      "Soliloquy",
+      "soliloquy",
+      "Soliloquy",
+      "Soliloquy",
+      "Soliloquy",
+      "soliloquy"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 64'ün karekökü kaçtır?\ncevap: Sekiz\nsoru: İngiltere'deki yollarda buz için kullanılan üçgen uyarı işareti hangi sembolü gösterir?\ncevap:",
+    "full_llm_output": "Üçgen",
+    "true_answer": "Kar tanesi",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Üçgen",
+    "answer_token_ids": [
+      0,
+      52526,
+      2341,
+      2536
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Ü",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.10064847681830355,
+    "regular_entropy": 2.3537684006591584,
+    "cluster_assignment_entropy": 0.30463609734923813,
+    "all_generations": [
+      "Kar",
+      "Kar",
+      "Üçgen",
+      "Kar",
+      "Kar",
+      "Kar",
+      "Kar",
+      "Kar",
+      "Kar",
+      "Kar",
+      "Kar"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: 42 yıl 103 gün yaşında İngiltere milli takımında oynayan en yaşlı futbolcu kimdir?\ncevap:",
+    "full_llm_output": "Peter Shilton",
+    "true_answer": "Stanley Matthews",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Peter Shilton",
+    "answer_token_ids": [
+      0,
+      39314,
+      2009,
+      19667
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Peter",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.1975948933254478,
+    "regular_entropy": 2.3176307106180327,
+    "cluster_assignment_entropy": 0.47413931305783735,
+    "all_generations": [
+      "Stanley Matthews",
+      "Stanley Matthews",
+      "Stanley Matthews",
+      "Stanley Matthews",
+      "Stanley Matthews",
+      "Stanley Matthews",
+      "Stanley Matthews",
+      "Stanley Matthews",
+      "Stanley Matthews",
+      "Peter Shilton",
+      "Peter Shilton"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: \"Çevirisi \"\"Yalanlara, Aptallığa ve Korkaklığa Karşı Dört Buçuk Yıllık Mücadele\"\" olarak adlandırılacak olan kitap hangisidir?\"?\ncevap:",
+    "full_llm_output": "Kavgam",
+    "true_answer": "Mein Kampf",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Kavgam",
+    "answer_token_ids": [
+      0,
+      45,
+      55184,
+      356
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "K",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Mein Kampf",
+      "Mein Kampf",
+      "Mein Kampf",
+      "Mein Kampf",
+      "Mein Kampf",
+      "Mein Kampf",
+      "Mein Kampf",
+      "Mein Kampf",
+      "Mein Kampf",
+      "Mein Kampf",
+      "Mein Kampf"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: Hilary Clinton'ın yerine ABD Dışişleri Bakanı olarak kim atandı?\ncevap:",
+    "full_llm_output": "Rex Tillerson",
+    "true_answer": "John Kerry",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Rex Tillerson",
+    "answer_token_ids": [
+      0,
+      52,
+      1289,
+      57360,
+      3965
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "R",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.4441504891470903,
+    "regular_entropy": 2.2934898268762938,
+    "cluster_assignment_entropy": 0.6554817739013927,
+    "all_generations": [
+      "Rex Tillerson",
+      "Rex Tillerson",
+      "Rex Tillerson",
+      "Rex Tillerson",
+      "Rex Tillerson",
+      "John Kerry",
+      "John Kerry",
+      "John Kerry",
+      "Rex Tillerson",
+      "John Kerry",
+      "Rex Tillerson"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 'Romeo ve Juliet'i kim yazdı?\ncevap: Shakespeare\nsoru: Hangi süper kahraman, aksiyon halindeki fotoğraflarını çekip Daily Bugle gazetesine satıyor?\ncevap:",
+    "full_llm_output": "Peter Parker",
+    "true_answer": "Örümcek Adam",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Peter Parker",
+    "answer_token_ids": [
+      0,
+      39314,
+      35351
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Peter",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.5777281265220224,
+    "regular_entropy": 2.3747178860466245,
+    "cluster_assignment_entropy": 0.6554817739013927,
+    "all_generations": [
+      "Peter Parker",
+      "Peter Parker (Spider-Man)",
+      "Peter Parker",
+      "Peter Parker",
+      "Peter Parker",
+      "Peter Parker (Spider-Man)",
+      "Peter Parker (Spider-Man)",
+      "Peter Parker (Spider-Man)",
+      "Peter Parker",
+      "Peter Parker",
+      "Peter Parker"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 64'ün karekökü kaçtır?\ncevap: Sekiz\nsoru: David Wilkie, Duncan Goodhew ve Adrian Moorhouse hangi vuruşla Olimpiyat altın madalyası kazandılar?\ncevap:",
+    "full_llm_output": "Kelebek",
+    "true_answer": "Kurbağalama",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Kelebek",
+    "answer_token_ids": [
+      0,
+      45,
+      13768,
+      53980
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "K",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Kelebek",
+      "Kelebek",
+      "Kelebek",
+      "Kelebek",
+      "Kelebek",
+      "Kelebek",
+      "Kelebek",
+      "Kelebek",
+      "Kelebek",
+      "Kelebek",
+      "Kelebek"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Doğal gazın ana bileşeni nedir?\ncevap: Metan\nsoru: Okells Brewery, Britanya Adaları'nın hangi bölgesinde bulunmaktadır?\ncevap:",
+    "full_llm_output": "Kuzey İrlanda",
+    "true_answer": "Man Adası",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Kuzey İrlanda",
+    "answer_token_ids": [
+      0,
+      45,
+      5416,
+      1431,
+      50434,
+      84,
+      1831,
+      67
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "K",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.037060296002918346,
+    "regular_entropy": 2.324284593648273,
+    "cluster_assignment_entropy": 0.30463609734923813,
+    "all_generations": [
+      "Kuzey İrlanda",
+      "Kuzey İrlanda",
+      "Kuzey İrlanda",
+      "Kuzey İrlanda",
+      "İngiltere",
+      "Kuzey İrlanda",
+      "Kuzey İrlanda",
+      "Kuzey İrlanda",
+      "Kuzey İrlanda",
+      "Kuzey İrlanda",
+      "Kuzey İrlanda"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: \"Allan Quartermain\" adlı kurgusal karakteri hangi yazar yaratmıştır?\ncevap:",
+    "full_llm_output": "H",
+    "true_answer": "Rider Haggard",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "H",
+    "answer_token_ids": [
+      0,
+      42
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "H",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H",
+      "H"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: 1962 Seattle Dünya Fuarı için hangi simgesel yapı inşa edildi?\ncevap:",
+    "full_llm_output": "Space Needle",
+    "true_answer": "Uzay İğnesi",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Space Needle",
+    "answer_token_ids": [
+      0,
+      25907,
+      21017,
+      302
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Space",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.24964410601523143,
+    "regular_entropy": 2.339240292692486,
+    "cluster_assignment_entropy": 0.47413931305783735,
+    "all_generations": [
+      "Space Needle",
+      "Space Needle",
+      "Space Needle",
+      "Space Needle",
+      "Space Needle",
+      "Space Needle",
+      "Space Needle",
+      "Uzay İğnesi",
+      "Uzay İğnesi",
+      "Space Needle",
+      "Space Needle"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: Lester Piggott ilk ve son galibiyetlerini hangi yarış pistinde elde etti?\ncevap:",
+    "full_llm_output": "Epsom",
+    "true_answer": "Haydock Park",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Epsom",
+    "answer_token_ids": [
+      0,
+      39,
+      1149,
+      316
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "E",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Epsom",
+      "Epsom",
+      "Epsom",
+      "Epsom",
+      "Epsom",
+      "Epsom",
+      "Epsom",
+      "Epsom",
+      "Epsom",
+      "Epsom",
+      "Epsom"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: \"Well, Did You Evah!\" ve \"Who Wants to be a Millionaire?\" hangi 1956 yapımı müzikal filmin şarkılarıdır?\ncevap:",
+    "full_llm_output": "High Society",
+    "true_answer": "Yüksek sosyete",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "High Society",
+    "answer_token_ids": [
+      0,
+      20769,
+      9114
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "High",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "High Society",
+      "High Society",
+      "High Society",
+      "High Society",
+      "High Society",
+      "High Society",
+      "High Society",
+      "High Society",
+      "High Society",
+      "High Society",
+      "High Society"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: Kylie Minogue nerede doğdu?\ncevap:",
+    "full_llm_output": "Melbourne",
+    "true_answer": "Avustralya",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Melbourne",
+    "answer_token_ids": [
+      0,
+      38948,
+      29830
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Mel",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.47079810506738284,
+    "regular_entropy": 2.3050831230463578,
+    "cluster_assignment_entropy": 0.7595473914748635,
+    "all_generations": [
+      "Melbourne",
+      "Melbourne",
+      "Avustralya",
+      "Melbourne",
+      "Melbourne",
+      "Melbourne",
+      "Melbourne",
+      "Melbourne",
+      "Melbourne",
+      "Melbourne, Avustralya",
+      "Avustralya"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 3
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 64'ün karekökü kaçtır?\ncevap: Sekiz\nsoru: Hayvanların hangi kısmı yağdır?\ncevap:",
+    "full_llm_output": "Deri altı",
+    "true_answer": "Yağ",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Deri altı",
+    "answer_token_ids": [
+      0,
+      25146,
+      75,
+      7423,
+      6363
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Der",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.07945712576754362,
+    "regular_entropy": 2.333274147509123,
+    "cluster_assignment_entropy": 0.30463609734923813,
+    "all_generations": [
+      "Deri altı",
+      "Deri altı",
+      "Deri altı",
+      "Bacon",
+      "Deri altı",
+      "Deri altı",
+      "Deri altı",
+      "Deri altı",
+      "Deri altı",
+      "Deri altı",
+      "Deri altı"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 64'ün karekökü kaçtır?\ncevap: Sekiz\nsoru: Leonardo DiCaprio ve Mark Ruffalo, Martin Scorsese'nin yönettiği 2010 yapımı hangi filmde 1950'lerde bir psikiyatri hastasının kaybolmasını araştıran ABD federal polislerini canlandırıyor?\ncevap:",
+    "full_llm_output": "Zindan Adası",
+    "true_answer": "Shutter Island",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Zindan Adası",
+    "answer_token_ids": [
+      0,
+      60,
+      655,
+      276,
+      1908,
+      118152
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Z",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Zindan Adası",
+      "Zindan Adası",
+      "Zindan Adası",
+      "Zindan Adası",
+      "Zindan Adası",
+      "Zindan Adası",
+      "Zindan Adası",
+      "Zindan Adası",
+      "Zindan Adası",
+      "Zindan Adası",
+      "Zindan Adası"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: \"Merton Pride\" ne tür bir meyvedir?\ncevap:",
+    "full_llm_output": "Elma",
+    "true_answer": "Armut",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Elma",
+    "answer_token_ids": [
+      0,
+      8587,
+      2258
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "El",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Elma",
+      "Elma",
+      "Elma",
+      "Elma",
+      "Elma",
+      "Elma",
+      "Elma",
+      "Elma",
+      "Elma",
+      "Elma",
+      "Elma"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 'Romeo ve Juliet'i kim yazdı?\ncevap: Shakespeare\nsoru: Hangi oyunda her renginden on adet olmak üzere altı set renkli parça kullanılır ve parçalar ya bitişik bir noktaya ya da başka bir parçanın üzerinden atlayarak hareket eder?\ncevap:",
+    "full_llm_output": "Chinese Checkers",
+    "true_answer": "Çin daması",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Chinese Checkers",
+    "answer_token_ids": [
+      0,
+      36612,
+      8824,
+      387
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Chinese",
+        "prob": 1.0,
+        "logprob": 0.0
+      },
+      {
+        "token": "A",
+        "prob": 3.720075976020836e-44,
+        "logprob": -9999.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.396168281674441,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Chinese Checkers",
+      "Chinese Checkers",
+      "Chinese Checkers",
+      "Chinese Checkers",
+      "Chinese Checkers",
+      "Chinese Checkers",
+      "Chinese Checkers",
+      "Chinese Checkers",
+      "Chinese Checkers",
+      "Chinese Checkers",
+      "Chinese Checkers"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Doğal gazın ana bileşeni nedir?\ncevap: Metan\nsoru: Frank Lloyd Wright tarafından tasarlanan, Pennsylvania'nın Stewart Township kasabasında bir nehrin üzerinde yer alan ünlü ev hangisidir?\ncevap:",
+    "full_llm_output": "Kaufmann Evi",
+    "true_answer": "Fallingwater",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Kaufmann Evi",
+    "answer_token_ids": [
+      0,
+      45,
+      17810,
+      11958,
+      446,
+      7372
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "K",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 1.0037838242451684,
+    "regular_entropy": 2.306867059565214,
+    "cluster_assignment_entropy": 0.9949236325717752,
+    "all_generations": [
+      "Fallingwater",
+      "Kaufmann Evi (Fallingwater)",
+      "Kaufmann Evi (Fallingwater)",
+      "Kaufmann Evi",
+      "Kaufmann Evi (Fallingwater)",
+      "Kaufmann Evi (Fallingwater)",
+      "Kaufmann Evi (Fallingwater)",
+      "Fallingwater",
+      "Fallingwater",
+      "Kaufmann Evi (Fallingwater)",
+      "Kaufmann Evi"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 3
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: Birçok dil konuşan birini tanımlamak için hangi kelime kullanılır?\ncevap:",
+    "full_llm_output": "Poliglot",
+    "true_answer": "Çok dilli",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Poliglot",
+    "answer_token_ids": [
+      0,
+      18415,
+      350,
+      34929
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Pol",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.397660188046916,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Poliglot",
+      "Poliglot",
+      "Poliglot",
+      "Poliglot",
+      "Poliglot",
+      "Poliglot",
+      "Poliglot",
+      "Poliglot",
+      "Poliglot",
+      "Poliglot",
+      "Poliglot"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: Hangi kahverengimsi mor tonu, ismini İspanyolca'da \"pire\" anlamına gelen kelimeden almıştır?\ncevap:",
+    "full_llm_output": "Puma",
+    "true_answer": "Puce",
+    "classification": "HALLUCINATION",
+    "match_score": 0.25,
+    "match_type": "fuzzy_low",
+    "answer_text": "Puma",
+    "answer_token_ids": [
+      0,
+      50,
+      11479
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "P",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.8236318921464498,
+    "regular_entropy": 2.327957783279953,
+    "cluster_assignment_entropy": 0.9075352941050092,
+    "all_generations": [
+      "Puma",
+      "Puma",
+      "Pembe",
+      "Pembe",
+      "Puma",
+      "Puma",
+      "Puma",
+      "Puma",
+      "Mor",
+      "Puma",
+      "Mor"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 3
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: Hangi televizyon sunucusunun lakabı \"Hamster\"dır?\ncevap:",
+    "full_llm_output": "Jeremy Clarkson",
+    "true_answer": "Richard Hammond",
+    "classification": "HALLUCINATION",
+    "match_score": 0.2,
+    "match_type": "fuzzy_low",
+    "answer_text": "Jeremy Clarkson",
+    "answer_token_ids": [
+      0,
+      47663,
+      11031,
+      115819,
+      265
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Jer",
+        "prob": 1.0,
+        "logprob": 0.0
+      },
+      {
+        "token": "A",
+        "prob": 3.720075976020836e-44,
+        "logprob": -9999.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.49178251258532907,
+    "regular_entropy": 2.321200594485955,
+    "cluster_assignment_entropy": 0.6554817739013927,
+    "all_generations": [
+      "Richard Hammond",
+      "Jeremy Clarkson",
+      "Richard Hammond",
+      "Richard Hammond",
+      "Richard Hammond",
+      "Richard Hammond",
+      "Richard Hammond",
+      "Jeremy Clarkson",
+      "Jeremy Clarkson",
+      "Jeremy Clarkson",
+      "Richard Hammond"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Doğal gazın ana bileşeni nedir?\ncevap: Metan\nsoru: 1966/1973 yıllarında yayınlanan ve Jim Phelps, Cinnamon Carter ve Rollin Hand karakterlerinin yer aldığı ABD televizyon dizisi hangisidir?\ncevap:",
+    "full_llm_output": "Görevimiz",
+    "true_answer": "Mission Impossible",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Görevimiz",
+    "answer_token_ids": [
+      0,
+      41,
+      2061,
+      23984,
+      328,
+      571
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "G",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.7685531175572435,
+    "regular_entropy": 2.3151993872683834,
+    "cluster_assignment_entropy": 0.9075352941050092,
+    "all_generations": [
+      "Görevimiz",
+      "Görev Ajanları",
+      "Görevimiz",
+      "Görev Ajanları",
+      "Görevimizde",
+      "Görev Ajanları",
+      "Görev Ajanları",
+      "Görev Ajanları",
+      "Görevimizde",
+      "Görev Ajanları",
+      "Görev Ajanları"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 3
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: 1950'ler/60'larda Magnette adlı arabayı üreten şirket hangisidir?\ncevap:",
+    "full_llm_output": "Riley",
+    "true_answer": "Mg",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Riley",
+    "answer_token_ids": [
+      0,
+      52,
+      16418
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "R",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Austin",
+      "Austin",
+      "Austin",
+      "Austin",
+      "Austin",
+      "Austin",
+      "Austin",
+      "Austin",
+      "Austin",
+      "Austin",
+      "Austin"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 64'ün karekökü kaçtır?\ncevap: Sekiz\nsoru: Orijinal Cinque Ports'tan, Kent'te olmayan tek yer hangisiydi?\ncevap:",
+    "full_llm_output": "Rye",
+    "true_answer": "Hastings",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Rye",
+    "answer_token_ids": [
+      0,
+      52,
+      8863
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "R",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Hastings",
+      "Hastings",
+      "Hastings",
+      "Hastings",
+      "Hastings",
+      "Hastings",
+      "Hastings",
+      "Hastings",
+      "Hastings",
+      "Hastings",
+      "Hastings"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 64'ün karekökü kaçtır?\ncevap: Sekiz\nsoru: Bir kurbağayı hipnotize etmek için hangi kısmını ovarsınız?\ncevap:",
+    "full_llm_output": "Mide",
+    "true_answer": "Karnını",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Mide",
+    "answer_token_ids": [
+      0,
+      47,
+      681
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "M",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3969187164107293,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Mide",
+      "Mide",
+      "Mide",
+      "Mide",
+      "Mide",
+      "Mide",
+      "Mide",
+      "Mide",
+      "Mide",
+      "Mide",
+      "Mide"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 64'ün karekökü kaçtır?\ncevap: Sekiz\nsoru: Şef Crazy Horse hangi Amerikan yerlisi kabilesine aitti?\ncevap:",
+    "full_llm_output": "Lakota",
+    "true_answer": "Sioux",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Lakota",
+    "answer_token_ids": [
+      0,
+      46,
+      480,
+      8416
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "L",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Lakota",
+      "Lakota",
+      "Lakota",
+      "Lakota",
+      "Lakota",
+      "Lakota",
+      "Lakota",
+      "Lakota",
+      "Lakota",
+      "Lakota",
+      "Lakota"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 64'ün karekökü kaçtır?\ncevap: Sekiz\nsoru: Fred Flintstone kediyi dışarı çıkardığında merdiveninde kaç tane süt şişesi vardır?\ncevap:",
+    "full_llm_output": "Üç",
+    "true_answer": "Bir",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Üç",
+    "answer_token_ids": [
+      0,
+      52526,
+      2341
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Ü",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.25813248908733916,
+    "regular_entropy": 2.263792878232727,
+    "cluster_assignment_entropy": 0.5859526183035508,
+    "all_generations": [
+      "Üç",
+      "İki",
+      "Üç",
+      "Üç",
+      "İki",
+      "Üç",
+      "Üç",
+      "Üç",
+      "Üç",
+      "Üç",
+      "İki"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 'Romeo ve Juliet'i kim yazdı?\ncevap: Shakespeare\nsoru: Mel Gibson, İskoç bir kahramanı anlatan hangi filmle ilk Oscar'ını En İyi Film ve En İyi Yönetmen dallarında kazandı?\ncevap:",
+    "full_llm_output": "Cesur Yürek",
+    "true_answer": "Braveheart",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Cesur Yürek",
+    "answer_token_ids": [
+      0,
+      113507,
+      346,
+      894,
+      2134,
+      38876
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Ces",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.6696635621664218,
+    "regular_entropy": 2.367928887084502,
+    "cluster_assignment_entropy": 0.6890092384766586,
+    "all_generations": [
+      "Braveheart",
+      "Cesur Yürek",
+      "Cesur Yürek",
+      "Braveheart",
+      "Braveheart",
+      "Cesur Yürek",
+      "Cesur Yürek",
+      "Braveheart",
+      "Braveheart",
+      "Cesur Yürek",
+      "Braveheart"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: Dünyada posta pullarında ülke adının yazılması zorunlu olmayan tek ülke hangisidir?\ncevap:",
+    "full_llm_output": "Büyük Britanya",
+    "true_answer": "Birleşik Krallık",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Büyük Britanya",
+    "answer_token_ids": [
+      0,
+      36,
+      2134,
+      91,
+      52284,
+      5021,
+      13392
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "B",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.1645111675521702,
+    "regular_entropy": 2.2051770742615493,
+    "cluster_assignment_entropy": 0.5859526183035508,
+    "all_generations": [
+      "Büyük Britanya",
+      "Birleşik Krallık",
+      "Büyük Britanya",
+      "Büyük Britanya",
+      "Büyük Britanya",
+      "Büyük Britanya",
+      "Birleşik Krallık",
+      "Büyük Britanya",
+      "Birleşik Krallık",
+      "Büyük Britanya",
+      "Büyük Britanya"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 64'ün karekökü kaçtır?\ncevap: Sekiz\nsoru: Kitapçılarıyla ünlü Hay on Wye hangi ilçede yer almaktadır?\ncevap:",
+    "full_llm_output": "Herefordshire",
+    "true_answer": "Powys",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Herefordshire",
+    "answer_token_ids": [
+      0,
+      9544,
+      6037,
+      42605
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Here",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3976415126226547,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Herefordshire",
+      "Herefordshire",
+      "Herefordshire",
+      "Herefordshire",
+      "Herefordshire",
+      "Herefordshire",
+      "Herefordshire",
+      "Herefordshire",
+      "Herefordshire",
+      "Herefordshire",
+      "Herefordshire"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: Hangi hayvan melez bir hayvan doğurur?\ncevap:",
+    "full_llm_output": "Katır",
+    "true_answer": "Eşek",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Katır",
+    "answer_token_ids": [
+      0,
+      83926,
+      39343
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Kat",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Katır",
+      "Katır",
+      "Katır",
+      "Katır",
+      "Katır",
+      "Katır",
+      "Katır",
+      "Katır",
+      "Katır",
+      "Katır",
+      "Katır"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: Andy Warhol, 1962'den 1968'e kadar Madison Avenue, 231 East 47th Street'in 5. katındaki New York City stüdyosuna hangi adı vermişti?\ncevap:",
+    "full_llm_output": "Fabrika",
+    "true_answer": "The Factory",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Fabrika",
+    "answer_token_ids": [
+      0,
+      103032,
+      28899
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Fab",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.07260223051774346,
+    "regular_entropy": 2.342691561705853,
+    "cluster_assignment_entropy": 0.30463609734923813,
+    "all_generations": [
+      "Fabrika",
+      "Fabrika",
+      "Fabrika",
+      "Fabrika",
+      "Fabrika",
+      "The Factory",
+      "Fabrika",
+      "Fabrika",
+      "Fabrika",
+      "Fabrika",
+      "Fabrika"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: Uluslararası alanda saygın bir piyanistin gerçek adı Philippe Pages'dir.?\ncevap:",
+    "full_llm_output": "Yanlış",
+    "true_answer": "Richard Clayderman",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Yanlış",
+    "answer_token_ids": [
+      0,
+      59,
+      276,
+      52001,
+      13285
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Y",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.396208092622084,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Yanlış",
+      "Yanlış",
+      "Yanlış",
+      "Yanlış",
+      "Yanlış",
+      "Yanlış",
+      "Yanlış",
+      "Yanlış",
+      "Yanlış",
+      "Yanlış",
+      "Yanlış"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Doğal gazın ana bileşeni nedir?\ncevap: Metan\nsoru: Futbolda, iki kişi üç kez Avrupa'da Yılın Futbolcusu Ödülü'nü kazanmıştır. Johann Cruff bunlardan biridir, diğerinin adını yazınız.?\ncevap:",
+    "full_llm_output": "Marco van Basten",
+    "true_answer": "Michel Platini",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Marco van Basten",
+    "answer_token_ids": [
+      0,
+      16849,
+      1692,
+      3297,
+      54438,
+      267
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Mar",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Michel Platini",
+      "Michel Platini",
+      "Michel Platini",
+      "Michel Platini",
+      "Michel Platini",
+      "Michel Platini",
+      "Michel Platini",
+      "Michel Platini",
+      "Michel Platini",
+      "Michel Platini",
+      "Michel Platini"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: Ayılarla ilgili veya ayılara benzeyen ne demektir?\ncevap:",
+    "full_llm_output": "Arktik",
+    "true_answer": "Ayı",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Arktik",
+    "answer_token_ids": [
+      0,
+      3239,
+      3691,
+      635
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Ar",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "ursine",
+      "ursine",
+      "ursine",
+      "ursine",
+      "ursine",
+      "ursine",
+      "ursine",
+      "ursine",
+      "ursine",
+      "ursine",
+      "ursine"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Alice ve Bob genel dünya bilgisi üzerine bir sınava çalışan öğrencilerdir. Bu sınav çok geniş bir anlayış ve bilgi gerektirir. Alice ikisinden daha zekidir. Toplamda dört soru verilmektedir. Sınav çok zor olduğu için, çoğu öğrenci en fazla 75 puan (4 üzerinden 3) alabilir, geçmek için gereken minimum puan ise sadece 50'dir (4 üzerinden 2). Hiç cevap vermemektense tahmin etmek daha iyidir çünkü denediğiniz için kısmi puan alabilirsiniz. Bob ve Alice'in sadece sınavı geçmesi gerekiyor. Alice soruları soracak ve Bob elinden gelenin en iyisini yapacak. Sadece cevap verin, cümle değil.\nsoru: 'Romeo ve Juliet'i kim yazdı?\ncevap: Shakespeare\nsoru: Salamander ne tür bir hayvandır?\ncevap:",
+    "full_llm_output": "Kertenkele",
+    "true_answer": "Amfibi",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Kertenkele",
+    "answer_token_ids": [
+      0,
+      45,
+      41187,
+      81383
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "K",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.6704624679571576,
+    "regular_entropy": 2.098317762734875,
+    "cluster_assignment_entropy": 1.2882523050229002,
+    "all_generations": [
+      "Kertenkele",
+      "Amfibyum",
+      "Kertenkele",
+      "Kertenkele",
+      "Kertenkele",
+      "Kertenkele",
+      "Amfibiyen",
+      "Amfibyum",
+      "Amfibi",
+      "Amfibi",
+      "Amfibiyen"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 4
+  }
+]
