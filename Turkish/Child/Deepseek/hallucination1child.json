@@ -1,0 +1,2691 @@
+[
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: 64'ün karekökü kaçtır?\ncevap: Sekiz\nsoru: ‘Bread’ dizisindeki ana ailenin soyadı neydi?\ncevap:",
+    "full_llm_output": "Ganush",
+    "true_answer": "Boswell",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Ganush",
+    "answer_token_ids": [
+      0,
+      41,
+      276,
+      3090
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "G",
+        "prob": 1.0,
+        "logprob": 0.0
+      },
+      {
+        "token": "A",
+        "prob": 3.720075976020836e-44,
+        "logprob": -9999.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.8499180175381336,
+    "regular_entropy": 2.207289629632915,
+    "cluster_assignment_entropy": 1.1209503926735833,
+    "all_generations": [
+      "Gancio",
+      "Gancio",
+      "Gancio",
+      "Galloway",
+      "Butler",
+      "Butler",
+      "Ganbaş",
+      "Butler",
+      "Butler",
+      "Butler",
+      "Butler"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 4
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: 'Romeo ve Juliet'i kim yazdı?\ncevap: Shakespeare\nsoru: Hangi 1993 filmi, yazar C S Lewis ile şair Joy Grisham arasındaki ilişkiyi konu alıyor?\ncevap:",
+    "full_llm_output": "Gölgelerin Ardında",
+    "true_answer": "Shadowlands",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Gölgelerin Ardında",
+    "answer_token_ids": [
+      0,
+      41,
+      26222,
+      73,
+      10446,
+      261,
+      91317,
+      88716
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "G",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.9936423508658674,
+    "regular_entropy": 1.935221516104109,
+    "cluster_assignment_entropy": 1.2945451658448959,
+    "all_generations": [
+      "Aşkın İzinde",
+      "Aşka Dair",
+      "Aşkın İzinde",
+      "Aşkın İzinde",
+      "Aşka Dair",
+      "Gölgelerin Gücü",
+      "Gölgelerin Gücü",
+      "Gölgelerin Gücü",
+      "Aşka Dair",
+      "Aşkın Rengi",
+      "Aşkın İzinde"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 4
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: Zenginlik Çeşmesi hangi Asya şehrindedir?\ncevap:",
+    "full_llm_output": "Bangkok",
+    "true_answer": "Singapur",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Bangkok",
+    "answer_token_ids": [
+      0,
+      36,
+      45851,
+      633
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "B",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Bangkok",
+      "Bangkok",
+      "Bangkok",
+      "Bangkok",
+      "Bangkok",
+      "Bangkok",
+      "Bangkok",
+      "Bangkok",
+      "Bangkok",
+      "Bangkok",
+      "Bangkok"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: 'Romeo ve Juliet'i kim yazdı?\ncevap: Shakespeare\nsoru: Hangi Avrupa ülkesinin bayrağı, Rus bayrağının ters çevrilmiş versiyonudur?\ncevap:",
+    "full_llm_output": "Slovenya",
+    "true_answer": "Sırbistan",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Slovenya",
+    "answer_token_ids": [
+      0,
+      15475,
+      15352,
+      4789
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Sl",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Slovenya",
+      "Slovenya",
+      "Slovenya",
+      "Slovenya",
+      "Slovenya",
+      "Slovenya",
+      "Slovenya",
+      "Slovenya",
+      "Slovenya",
+      "Slovenya",
+      "Slovenya"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: Betelgeuse, Rigel, Bellatrix, Mintaka, Alnilam, Alnitak ve Saiph yıldızları hangi takımyıldızda yer alır?\ncevap:",
+    "full_llm_output": "Avcı",
+    "true_answer": "Orion",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Avcı",
+    "answer_token_ids": [
+      0,
+      19072,
+      69,
+      6363
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Av",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.13097753147568464,
+    "regular_entropy": 2.363360686738274,
+    "cluster_assignment_entropy": 0.30463609734923813,
+    "all_generations": [
+      "Orion",
+      "Orion",
+      "Orion",
+      "Orion",
+      "Orion",
+      "Orion",
+      "Avcı",
+      "Orion",
+      "Orion",
+      "Orion",
+      "Orion"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: 64'ün karekökü kaçtır?\ncevap: Sekiz\nsoru: \"Charlie Hungerford\" hangi televizyon dedektif dizisinde yer aldı?\ncevap:",
+    "full_llm_output": "Midsomer Murders",
+    "true_answer": "Bergerac",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Midsomer Murders",
+    "answer_token_ids": [
+      0,
+      47,
+      3227,
+      12996,
+      13700,
+      20392
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "M",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Midsomer Murders",
+      "Midsomer Murders",
+      "Midsomer Murders",
+      "Midsomer Murders",
+      "Midsomer Murders",
+      "Midsomer Murders",
+      "Midsomer Murders",
+      "Midsomer Murders",
+      "Midsomer Murders",
+      "Midsomer Murders",
+      "Midsomer Murders"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: BCG aşısı hangi hastalığa karşı bağışıklık sağlar?\ncevap:",
+    "full_llm_output": "Tüberküloz",
+    "true_answer": "Verem",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Tüberküloz",
+    "answer_token_ids": [
+      0,
+      54,
+      45408,
+      77,
+      2134,
+      4979,
+      92
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "T",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.056761228323819204,
+    "regular_entropy": 2.335481591409109,
+    "cluster_assignment_entropy": 0.30463609734923813,
+    "all_generations": [
+      "Tüberküloz",
+      "Verem",
+      "Tüberküloz",
+      "Tüberküloz",
+      "Tüberküloz",
+      "Tüberküloz",
+      "Tüberküloz",
+      "Tüberküloz",
+      "Tüberküloz",
+      "Tüberküloz",
+      "Tüberküloz"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: 'Romeo ve Juliet'i kim yazdı?\ncevap: Shakespeare\nsoru: Bir golf sahasında, normalde topunuzu işaretlemenize, kaldırmanıza ve temizlemenize izin verilen tek yer neresidir?\ncevap:",
+    "full_llm_output": "Yeşil",
+    "true_answer": "Putting green",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Yeşil",
+    "answer_token_ids": [
+      0,
+      74010,
+      13285,
+      321
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Ye",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Yeşil",
+      "Yeşil",
+      "Yeşil",
+      "Yeşil",
+      "Yeşil",
+      "Yeşil",
+      "Yeşil",
+      "Yeşil",
+      "Yeşil",
+      "Yeşil",
+      "Yeşil"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: 'Romeo ve Juliet'i kim yazdı?\ncevap: Shakespeare\nsoru: Bahçenize girerse “sorun” yaratmasının dışında, sadece bitkilerle beslenen hayvana ne ad verilir?\ncevap:",
+    "full_llm_output": "Otçul",
+    "true_answer": "Otobur",
+    "classification": "HALLUCINATION",
+    "match_score": 0.2727272727272727,
+    "match_type": "fuzzy_low",
+    "answer_text": "Otçul",
+    "answer_token_ids": [
+      0,
+      66166,
+      2341,
+      363
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Ot",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.041574859064092216,
+    "regular_entropy": 2.327887527370838,
+    "cluster_assignment_entropy": 0.30463609734923813,
+    "all_generations": [
+      "Otçul",
+      "Otçul",
+      "Otçul",
+      "Otçul",
+      "Otçul",
+      "Otçul",
+      "Otçul",
+      "Otçul",
+      "Otçul",
+      "Otçul",
+      "Otobur"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Doğal gazın ana bileşeni nedir?\ncevap: Metan\nsoru: Sovyetler Birliği’nde, 20 Aralık 1917’de Vladimir Lenin tarafından çıkarılan kararnameyle kurulan ve daha sonra Felix Dzerzhinsky tarafından yönetilen ilk devlet güvenlik örgütünün adı nedir?\ncevap:",
+    "full_llm_output": "Çeka",
+    "true_answer": "The Cheka",
+    "classification": "HALLUCINATION",
+    "match_score": 0.23076923076923078,
+    "match_type": "fuzzy_low",
+    "answer_text": "Çeka",
+    "answer_token_ids": [
+      0,
+      39486,
+      59981
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Ç",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Çeka",
+      "Çeka",
+      "Çeka",
+      "Çeka",
+      "Çeka",
+      "Çeka",
+      "Çeka",
+      "Çeka",
+      "Çeka",
+      "Çeka",
+      "Çeka"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: İnsanlarda madarozis nedir?\ncevap:",
+    "full_llm_output": "Kirpik kaybı",
+    "true_answer": "Kirpikler",
+    "classification": "HALLUCINATION",
+    "match_score": 0.2857142857142857,
+    "match_type": "fuzzy_low",
+    "answer_text": "Kirpik kaybı",
+    "answer_token_ids": [
+      0,
+      96494,
+      82,
+      635,
+      44730,
+      68,
+      6363
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Kir",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.365419732887556,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Kirpik kaybı",
+      "Kirpik kaybı",
+      "Kirpik kaybı",
+      "Kirpik kaybı",
+      "Kirpik kaybı",
+      "Kirpik kaybı",
+      "Kirpik kaybı",
+      "Kirpik kaybı",
+      "Kirpik kaybı",
+      "Kirpik kaybı",
+      "Kirpik kaybı"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Doğal gazın ana bileşeni nedir?\ncevap: Metan\nsoru: Aşk şiirinin ilham perisi kimdir?\ncevap:",
+    "full_llm_output": "Afrodit",
+    "true_answer": "Erato",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Afrodit",
+    "answer_token_ids": [
+      0,
+      27558,
+      13971,
+      279
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Af",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.3916240058077423,
+    "regular_entropy": 2.2555721936713224,
+    "cluster_assignment_entropy": 0.5859526183035508,
+    "all_generations": [
+      "Erato",
+      "Afrodit",
+      "Erato",
+      "Erato",
+      "Afrodit",
+      "Afrodit",
+      "Afrodit",
+      "Afrodit",
+      "Afrodit",
+      "Afrodit",
+      "Afrodit"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Doğal gazın ana bileşeni nedir?\ncevap: Metan\nsoru: Hangi otomobil üreticisi Samara modelini üretti?\ncevap:",
+    "full_llm_output": "VAZ",
+    "true_answer": "Lada",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "VAZ",
+    "answer_token_ids": [
+      0,
+      19454,
+      60
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "VA",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "VAZ",
+      "VAZ",
+      "VAZ",
+      "VAZ",
+      "VAZ",
+      "VAZ",
+      "VAZ",
+      "VAZ",
+      "VAZ",
+      "VAZ",
+      "VAZ"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: 64'ün karekökü kaçtır?\ncevap: Sekiz\nsoru: Ländler, hangi bölgenin geleneksel dansıdır?\ncevap:",
+    "full_llm_output": "Alpler",
+    "true_answer": "Avusturya",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Alpler",
+    "answer_token_ids": [
+      0,
+      3509,
+      36385
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Al",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.21306148332525818,
+    "regular_entropy": 2.2365085090747243,
+    "cluster_assignment_entropy": 0.5859526183035508,
+    "all_generations": [
+      "Alpler",
+      "Alpler",
+      "Alpler",
+      "Alpler",
+      "İsviçre",
+      "Alpler",
+      "İsviçre",
+      "İsviçre",
+      "Alpler",
+      "Alpler",
+      "Alpler"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Doğal gazın ana bileşeni nedir?\ncevap: Metan\nsoru: Hangi harf, yalnızca İzlanda alfabesine özgüdür?\ncevap:",
+    "full_llm_output": "Ð",
+    "true_answer": "(thorn)",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Ð",
+    "answer_token_ids": [
+      0,
+      76032
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Ð",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Þ",
+      "Þ",
+      "Þ",
+      "Þ",
+      "Þ",
+      "Þ",
+      "Þ",
+      "Þ",
+      "Þ",
+      "Þ",
+      "Þ"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: 64'ün karekökü kaçtır?\ncevap: Sekiz\nsoru: 4 Kasım 1922’de Howard Carter tarafından keşfedilen ünlü hangi mezarın eşyaları bugün Pacific Science Center’da sergilenmektedir?\ncevap:",
+    "full_llm_output": "Tutankhamun",
+    "true_answer": "Kral Tut",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Tutankhamun",
+    "answer_token_ids": [
+      0,
+      54,
+      333,
+      1981,
+      5440,
+      371
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "T",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Tutankhamun",
+      "Tutankhamun",
+      "Tutankhamun",
+      "Tutankhamun",
+      "Tutankhamun",
+      "Tutankhamun",
+      "Tutankhamun",
+      "Tutankhamun",
+      "Tutankhamun",
+      "Tutankhamun",
+      "Tutankhamun"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: 64'ün karekökü kaçtır?\ncevap: Sekiz\nsoru: Tibia kemiğinin daha resmi adı nedir?\ncevap:",
+    "full_llm_output": "Kaval kemiği",
+    "true_answer": "Tibia",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Kaval kemiği",
+    "answer_token_ids": [
+      0,
+      45,
+      57294,
+      473,
+      22485,
+      102813
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "K",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Kaval kemiği",
+      "Kaval kemiği",
+      "Kaval kemiği",
+      "Kaval kemiği",
+      "Kaval kemiği",
+      "Kaval kemiği",
+      "Kaval kemiği",
+      "Kaval kemiği",
+      "Kaval kemiği",
+      "Kaval kemiği",
+      "Kaval kemiği"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: Pierce Brosnan ilk kez hangi filmde James Bond’u canlandırdı?\ncevap:",
+    "full_llm_output": "Altın Göz",
+    "true_answer": "Goldeneye",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Altın Göz",
+    "answer_token_ids": [
+      0,
+      29609,
+      25372,
+      65654,
+      92
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Alt",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Altın Göz",
+      "Altın Göz",
+      "Altın Göz",
+      "Altın Göz",
+      "Altın Göz",
+      "Altın Göz",
+      "Altın Göz",
+      "Altın Göz",
+      "Altın Göz",
+      "Altın Göz",
+      "Altın Göz"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: 64'ün karekökü kaçtır?\ncevap: Sekiz\nsoru: Hem bir ayakkabı türü hem de zehirli bir yılan olan şey nedir?\ncevap:",
+    "full_llm_output": "Kobra",
+    "true_answer": "Mokasen",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Kobra",
+    "answer_token_ids": [
+      0,
+      45,
+      73862
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "K",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.397161539394808,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Çıngıraklı",
+      "Çıngıraklı",
+      "Çıngıraklı",
+      "Çıngıraklı",
+      "Çıngıraklı",
+      "Çıngıraklı",
+      "Çıngıraklı",
+      "Çıngıraklı",
+      "Çıngıraklı",
+      "Çıngıraklı",
+      "Çıngıraklı"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Doğal gazın ana bileşeni nedir?\ncevap: Metan\nsoru: Antik kayalık şehirleriyle ünlü Mesa Verde Ulusal Parkı nerededir?\ncevap:",
+    "full_llm_output": "Colorado",
+    "true_answer": "ABD",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Colorado",
+    "answer_token_ids": [
+      0,
+      127587
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Colorado",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.5264062711688404,
+    "regular_entropy": 2.163299698787887,
+    "cluster_assignment_entropy": 0.6890092384766586,
+    "all_generations": [
+      "Colorado, ABD",
+      "Colorado",
+      "Colorado",
+      "Colorado, ABD",
+      "Colorado, ABD",
+      "Colorado, ABD",
+      "Colorado",
+      "Colorado, ABD",
+      "Colorado, ABD",
+      "Colorado",
+      "Colorado"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Doğal gazın ana bileşeni nedir?\ncevap: Metan\nsoru: Hangi spor şövalyesi, 2014’te Sport Relief kapsamında The Archers dizisinde göründü?\ncevap:",
+    "full_llm_output": "Chris Hoy",
+    "true_answer": "Sir Bradley Wiggins",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Chris Hoy",
+    "answer_token_ids": [
+      0,
+      54997,
+      89507
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Chris",
+        "prob": 1.0,
+        "logprob": 0.0
+      },
+      {
+        "token": "A",
+        "prob": 3.720075976020836e-44,
+        "logprob": -9999.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978489597089947,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Chris Hoy",
+      "Chris Hoy",
+      "Chris Hoy",
+      "Chris Hoy",
+      "Chris Hoy",
+      "Chris Hoy",
+      "Chris Hoy",
+      "Chris Hoy",
+      "Chris Hoy",
+      "Chris Hoy",
+      "Chris Hoy"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: 'Romeo ve Juliet'i kim yazdı?\ncevap: Shakespeare\nsoru: Dick Swiveller, Charles Dickens’ın hangi romanında yer alır?\ncevap:",
+    "full_llm_output": "Eski Meraklılar",
+    "true_answer": "The old curiosity shop",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Eski Meraklılar",
+    "answer_token_ids": [
+      0,
+      39,
+      15602,
+      9979,
+      480,
+      52001,
+      19529
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "E",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.16572893159315227,
+    "regular_entropy": 2.1911207213872514,
+    "cluster_assignment_entropy": 0.7595473914748635,
+    "all_generations": [
+      "Eski Meraklı Dükkanı",
+      "Eski Antikacı",
+      "Eski Meraklı Dükkanı",
+      "Eski Meraklı Dükkanı",
+      "Eski Meraklı Dükkanı",
+      "Eski Meraklı Dükkanı",
+      "Eski Meraklı Dükkanı",
+      "Eski Meraklı Dükkanı",
+      "The Old Curiosity Shop",
+      "Eski Meraklı Dükkanı",
+      "The Old Curiosity Shop"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 3
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: 'Romeo ve Juliet'i kim yazdı?\ncevap: Shakespeare\nsoru: İngiliz film yapımcısı J Arthur Rank’ın adı nedir?\ncevap:",
+    "full_llm_output": "J",
+    "true_answer": "Joseph",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "J",
+    "answer_token_ids": [
+      0,
+      44
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "J",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.08649061077550034,
+    "regular_entropy": 2.3484425664645423,
+    "cluster_assignment_entropy": 0.30463609734923813,
+    "all_generations": [
+      "J",
+      "J",
+      "Arthur",
+      "J",
+      "J",
+      "J",
+      "J",
+      "J",
+      "J",
+      "J",
+      "J"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: İlk Esure Sigorta TV reklam serisinde, Michael Winner'ın ünlü sözü şuydu: \"Sakin ol sevgilim, bu sadece bir ne?\"?\ncevap:",
+    "full_llm_output": "Bira",
+    "true_answer": "reklam",
+    "classification": "HALLUCINATION",
+    "match_score": 0.2,
+    "match_type": "fuzzy_low",
+    "answer_text": "Bira",
+    "answer_token_ids": [
+      0,
+      36,
+      5287
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "B",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 1.7560203057326085,
+    "regular_entropy": 2.202697391815092,
+    "cluster_assignment_entropy": 1.893788232391138,
+    "all_generations": [
+      "Bıçak",
+      "Bisiklet",
+      "Ticari",
+      "Bira",
+      "Bira",
+      "Ticari",
+      "Reklam",
+      "Bisiklet",
+      "Bıçak",
+      "Bisküvi",
+      "Ticaret"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 7
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: Verdi’nin Il Trovatore operasının nakaratında kullanılan sıra dışı müzik aleti nedir?\ncevap:",
+    "full_llm_output": "Çekiç",
+    "true_answer": "Anvil",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Çekiç",
+    "answer_token_ids": [
+      0,
+      39486,
+      92900,
+      2341
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Ç",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Çekiç",
+      "Çekiç",
+      "Çekiç",
+      "Çekiç",
+      "Çekiç",
+      "Çekiç",
+      "Çekiç",
+      "Çekiç",
+      "Çekiç",
+      "Çekiç",
+      "Çekiç"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: Lumia ürün markası hangi telefon şirketine aittir?\ncevap:",
+    "full_llm_output": "Microsoft",
+    "true_answer": "Nokia",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Microsoft",
+    "answer_token_ids": [
+      0,
+      32406
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Microsoft",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.10895685911597174,
+    "regular_entropy": 2.356642968778591,
+    "cluster_assignment_entropy": 0.30463609734923813,
+    "all_generations": [
+      "Microsoft",
+      "Microsoft",
+      "Microsoft",
+      "Microsoft",
+      "Microsoft",
+      "Nokia",
+      "Microsoft",
+      "Microsoft",
+      "Microsoft",
+      "Microsoft",
+      "Microsoft"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: Argonaut hangi tür canlıdır?\ncevap:",
+    "full_llm_output": "Denizanası",
+    "true_answer": "Ahtapot",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Denizanası",
+    "answer_token_ids": [
+      0,
+      17074,
+      571,
+      24555,
+      6363
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Den",
+        "prob": 1.0,
+        "logprob": 0.0
+      },
+      {
+        "token": "A",
+        "prob": 3.720075976020836e-44,
+        "logprob": -9999.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978222784031247,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Denizanası",
+      "Denizanası",
+      "Denizanası",
+      "Denizanası",
+      "Denizanası",
+      "Denizanası",
+      "Denizanası",
+      "Denizanası",
+      "Denizanası",
+      "Denizanası",
+      "Denizanası"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: 'Romeo ve Juliet'i kim yazdı?\ncevap: Shakespeare\nsoru: Lister, Cat adında bir yaratık, Holly adında bir bilgisayar ve Rimmer adında bir holografik insanın bulunduğu televizyon programı hangisidir?\ncevap:",
+    "full_llm_output": "Kırmızı Cüce",
+    "true_answer": "Red Dwarf",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Kırmızı Cüce",
+    "answer_token_ids": [
+      0,
+      45,
+      6363,
+      3092,
+      93217,
+      6363,
+      345,
+      2134,
+      353
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "K",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Kırmızı Cüce",
+      "Kırmızı Cüce",
+      "Kırmızı Cüce",
+      "Kırmızı Cüce",
+      "Kırmızı Cüce",
+      "Kırmızı Cüce",
+      "Kırmızı Cüce",
+      "Kırmızı Cüce",
+      "Kırmızı Cüce",
+      "Kırmızı Cüce",
+      "Kırmızı Cüce"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Doğal gazın ana bileşeni nedir?\ncevap: Metan\nsoru: Dhole hangi tür bir hayvandır?\ncevap:",
+    "full_llm_output": "Asya yaban köpeği",
+    "true_answer": "Köpek",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Asya yaban köpeği",
+    "answer_token_ids": [
+      0,
+      2991,
+      4789,
+      383,
+      19089,
+      24493,
+      559,
+      102813
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "As",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.9687120519413499,
+    "regular_entropy": 2.1870078801434785,
+    "cluster_assignment_entropy": 1.3667110520552042,
+    "all_generations": [
+      "Asya yaban köpeği",
+      "Asya yaban köpeği",
+      "Asya yaban köpeği",
+      "Asya yaban köpeği",
+      "Asya yaban köpeği",
+      "Köpek",
+      "Asya köpeği",
+      "Asya köpeği",
+      "Yabani köpek",
+      "Vahşi köpek",
+      "Asya köpeği"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 5
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: Oyuncu Arnold Schwarzenegger, Mart 2013’te 93 yaşında ölen hangi vücut geliştirme gurununun öğrencisiydi?\ncevap:",
+    "full_llm_output": "Reg Park",
+    "true_answer": "Joe Weider",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Reg Park",
+    "answer_token_ids": [
+      0,
+      10009,
+      6938
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Reg",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.1668991879458604,
+    "regular_entropy": 2.371448817349446,
+    "cluster_assignment_entropy": 0.30463609734923813,
+    "all_generations": [
+      "Reg Park",
+      "Reg Park",
+      "Reg Park",
+      "Reg Park",
+      "Reg Park",
+      "Reg Park",
+      "Reg Park",
+      "Reg Park",
+      "Reg Park",
+      "Reg Park",
+      "Joe Weider"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Doğal gazın ana bileşeni nedir?\ncevap: Metan\nsoru: Arbroath Smokie hangi balıkla yapılır?\ncevap:",
+    "full_llm_output": "Mezgit",
+    "true_answer": "Haddock",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Mezgit",
+    "answer_token_ids": [
+      0,
+      9130,
+      92,
+      30139
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Me",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.3052210605717468,
+    "regular_entropy": 2.198466755572726,
+    "cluster_assignment_entropy": 0.6554817739013927,
+    "all_generations": [
+      "Haddock",
+      "Haddock",
+      "Haddock",
+      "Mezgit",
+      "Haddock",
+      "Mezgit",
+      "Haddock",
+      "Mezgit",
+      "Haddock",
+      "Mezgit",
+      "Haddock"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: Geleneksel olarak ve olumsuz anlamda ‘bastard killer’ olarak bilinen, meyveleri kürtaj için kullanılan hangi kozalaklı çalıdır?\ncevap:",
+    "full_llm_output": "Savun",
+    "true_answer": "Ardıç",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Savun",
+    "answer_token_ids": [
+      0,
+      87645,
+      371
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Sav",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.5853759805251595,
+    "regular_entropy": 2.02053357992852,
+    "cluster_assignment_entropy": 1.4142790651247086,
+    "all_generations": [
+      "Porsuk",
+      "Porsuk",
+      "Juniperus sabina",
+      "Juniperus sabina",
+      "Porsuk",
+      "Batı servisi",
+      "Savin",
+      "Porsuk",
+      "Mazı",
+      "Savin",
+      "Porsuk"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 5
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: Haziran 2015’te Countryfile’de açıklanan ankete göre İngiltere’nin ulusal kuşu hangi tür olarak seçildi?\ncevap:",
+    "full_llm_output": "Kızılgerdan",
+    "true_answer": "Robin",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Kızılgerdan",
+    "answer_token_ids": [
+      0,
+      45,
+      93217,
+      94813,
+      2599,
+      25903
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "K",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Kızılgerdan",
+      "Kızılgerdan",
+      "Kızılgerdan",
+      "Kızılgerdan",
+      "Kızılgerdan",
+      "Kızılgerdan",
+      "Kızılgerdan",
+      "Kızılgerdan",
+      "Kızılgerdan",
+      "Kızılgerdan",
+      "Kızılgerdan"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: Noël Coward’un hangi oyunu eksantrik medyum ve kahin Madame Arcati’yi konu alır?\ncevap:",
+    "full_llm_output": "Eşcinsel Ruh",
+    "true_answer": "Blithe spirit",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Eşcinsel Ruh",
+    "answer_token_ids": [
+      0,
+      39,
+      13285,
+      69,
+      1509,
+      317,
+      433,
+      5808
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "E",
+        "prob": 1.0,
+        "logprob": 0.0
+      },
+      {
+        "token": "A",
+        "prob": 3.720075976020836e-44,
+        "logprob": -9999.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.8940690489743858,
+    "regular_entropy": 2.0085100328480516,
+    "cluster_assignment_entropy": 1.666332585328325,
+    "all_generations": [
+      "Feyaz Sihir",
+      "Fey Perisi",
+      "Fey Perisi",
+      "Fey Perisi",
+      "\"Hayalet Treni\"",
+      "\"Blithe Spirit\"",
+      "\"Fırtına\"",
+      "Hayalet Treni",
+      "Fey Perisi",
+      "Eşcinsel Ruh",
+      "Fey Perisi"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 7
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: “Güçlüyüm sonuna kadar, çünkü ıspanak yerim” sözünü kim söylemiştir?\ncevap:",
+    "full_llm_output": "Temel Reis",
+    "true_answer": "Popeye",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Temel Reis",
+    "answer_token_ids": [
+      0,
+      54,
+      381,
+      317,
+      101712
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "T",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Temel Reis",
+      "Temel Reis",
+      "Temel Reis",
+      "Temel Reis",
+      "Temel Reis",
+      "Temel Reis",
+      "Temel Reis",
+      "Temel Reis",
+      "Temel Reis",
+      "Temel Reis",
+      "Temel Reis"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Doğal gazın ana bileşeni nedir?\ncevap: Metan\nsoru: İngiltere’de Shawfield Greyhound Stadyumu hangi şehirde bulunur?\ncevap:",
+    "full_llm_output": "Rutherglen",
+    "true_answer": "Glasgow",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Rutherglen",
+    "answer_token_ids": [
+      0,
+      52,
+      21299,
+      5745,
+      267
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "R",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.6632087644065178,
+    "regular_entropy": 2.329892454523252,
+    "cluster_assignment_entropy": 0.6890092384766586,
+    "all_generations": [
+      "Rutherglen",
+      "Rutherglen",
+      "Glasgow",
+      "Glasgow",
+      "Rutherglen",
+      "Rutherglen",
+      "Rutherglen",
+      "Glasgow",
+      "Glasgow",
+      "Glasgow",
+      "Glasgow"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: “I Love Paris” şarkısı hangi müzikaldan gelmektedir?\ncevap:",
+    "full_llm_output": "Silk Stockings",
+    "true_answer": "can can",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Silk Stockings",
+    "answer_token_ids": [
+      0,
+      35335,
+      77,
+      15496,
+      1045
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Sil",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Silk Stockings",
+      "Silk Stockings",
+      "Silk Stockings",
+      "Silk Stockings",
+      "Silk Stockings",
+      "Silk Stockings",
+      "Silk Stockings",
+      "Silk Stockings",
+      "Silk Stockings",
+      "Silk Stockings",
+      "Silk Stockings"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: 'Romeo ve Juliet'i kim yazdı?\ncevap: Shakespeare\nsoru: Evcil hayvan olarak da beslenen, küçük kemirgen türü jird veya kum faresi olarak da bilinen hangi hayvandır?\ncevap:",
+    "full_llm_output": "Çöl sıçanı",
+    "true_answer": "Gerbil",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Çöl sıçanı",
+    "answer_token_ids": [
+      0,
+      39486,
+      26222,
+      269,
+      6363,
+      2341,
+      276,
+      6363
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Ç",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.884015436024135,
+    "regular_entropy": 2.3471303938115406,
+    "cluster_assignment_entropy": 0.9347698978582794,
+    "all_generations": [
+      "Çöl sıçanı",
+      "Hamster",
+      "Hamster",
+      "Çöl sıçanı",
+      "Çinçilla",
+      "Çöl sıçanı",
+      "Hamster",
+      "Çöl sıçanı",
+      "Hamster",
+      "Çöl sıçanı",
+      "Hamster"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 3
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Doğal gazın ana bileşeni nedir?\ncevap: Metan\nsoru: Rainbow’daki ayının adı neydi?\ncevap:",
+    "full_llm_output": "Boo-Boo",
+    "true_answer": "Bungle",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Boo-Boo",
+    "answer_token_ids": [
+      0,
+      36,
+      6379,
+      5871,
+      6379
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "B",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.7041559341925497,
+    "regular_entropy": 2.2997848100051326,
+    "cluster_assignment_entropy": 0.9164648855394713,
+    "all_generations": [
+      "Panda",
+      "Panda",
+      "Panda",
+      "Puh",
+      "Puh",
+      "Panda",
+      "Panda",
+      "Puh",
+      "Bungle",
+      "Puh",
+      "Panda"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 3
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: 1993–1997 yılları arasında görev yapan, Margaret Thatcher döneminin son Maliye Bakanı kimdi?\ncevap:",
+    "full_llm_output": "Norman Lamont",
+    "true_answer": "Kenneth Clarke",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Norman Lamont",
+    "answer_token_ids": [
+      0,
+      53016,
+      276,
+      24609,
+      1039
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Norm",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Norman Lamont",
+      "Norman Lamont",
+      "Norman Lamont",
+      "Norman Lamont",
+      "Norman Lamont",
+      "Norman Lamont",
+      "Norman Lamont",
+      "Norman Lamont",
+      "Norman Lamont",
+      "Norman Lamont",
+      "Norman Lamont"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: Kriket yasalarının telif hakkını hangi kuruluş elinde tutar?\ncevap:",
+    "full_llm_output": "Marylebone Kriket Kulübü",
+    "true_answer": "Mcc",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Marylebone Kriket Kulübü",
+    "answer_token_ids": [
+      0,
+      41581,
+      302,
+      34147,
+      110400,
+      12384,
+      66940,
+      83863,
+      2134
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Mary",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3973478976706795,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Marylebone Kriket Kulübü",
+      "Marylebone Kriket Kulübü",
+      "Marylebone Kriket Kulübü",
+      "Marylebone Kriket Kulübü",
+      "Marylebone Kriket Kulübü",
+      "Marylebone Kriket Kulübü",
+      "Marylebone Kriket Kulübü",
+      "Marylebone Kriket Kulübü",
+      "Marylebone Kriket Kulübü",
+      "Marylebone Kriket Kulübü",
+      "Marylebone Kriket Kulübü"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: ‘Gibson’ kokteylinde hangi içki bulunur?\ncevap:",
+    "full_llm_output": "Votka",
+    "true_answer": "Cin",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Votka",
+    "answer_token_ids": [
+      0,
+      56,
+      347,
+      3332
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "V",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.3462058878323975,
+    "regular_entropy": 2.3102259804297227,
+    "cluster_assignment_entropy": 0.5859526183035508,
+    "all_generations": [
+      "Votka",
+      "Vermut",
+      "Votka",
+      "Votka",
+      "Vermut",
+      "Votka",
+      "Votka",
+      "Votka",
+      "Vermut",
+      "Votka",
+      "Votka"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: 1958’de Broadway’de ilk kez sahnelenen ve San Francisco’daki bir Çinli göçmen ailesinin çatışmalarını anlatan Rogers ve Hammerstein müzikali hangisidir?\ncevap:",
+    "full_llm_output": "Çiçek Davul Şarkısı",
+    "true_answer": "The flower drum song",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Çiçek Davul Şarkısı",
+    "answer_token_ids": [
+      0,
+      39486,
+      75,
+      2341,
+      1465,
+      5781,
+      363,
+      85277,
+      1013,
+      106885,
+      6363
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Ç",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.16918127745034706,
+    "regular_entropy": 2.208363785612198,
+    "cluster_assignment_entropy": 0.5859526183035508,
+    "all_generations": [
+      "Flower Drum Song",
+      "Flower Drum Song",
+      "Flower Drum Song",
+      "Flower Drum Song",
+      "Flower Drum Song",
+      "Flower Drum Song",
+      "Çiçek Davası",
+      "Flower Drum Song",
+      "Flower Drum Song",
+      "Çiçek Davası",
+      "Çiçek Davası"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: Galler’de Afon Dyfrdwy olarak bilinen nehrin İngilizce adı nedir?\ncevap:",
+    "full_llm_output": "Severn",
+    "true_answer": "The dee",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Severn",
+    "answer_token_ids": [
+      0,
+      31677,
+      80
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Sever",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.7356597911528494,
+    "regular_entropy": 2.304471949750969,
+    "cluster_assignment_entropy": 0.9347698978582794,
+    "all_generations": [
+      "Severn",
+      "Dee",
+      "Dee",
+      "Severn",
+      "Dee",
+      "Severn",
+      "Dee",
+      "Dee",
+      "Dee Nehri",
+      "Severn",
+      "Severn"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 3
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: Hangi İskoç şehri “Bir Şehir, Birçok Keşif” olarak tanıtılmaktadır?\ncevap:",
+    "full_llm_output": "Edinburgh",
+    "true_answer": "Dundee",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Edinburgh",
+    "answer_token_ids": [
+      0,
+      8106,
+      37793
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Ed",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.03529597782664876,
+    "regular_entropy": 2.3245390868178926,
+    "cluster_assignment_entropy": 0.30463609734923813,
+    "all_generations": [
+      "Dundee",
+      "Dundee",
+      "Dundee",
+      "Dundee",
+      "Dundee",
+      "Dundee",
+      "Edinburgh",
+      "Dundee",
+      "Dundee",
+      "Dundee",
+      "Dundee"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: 64'ün karekökü kaçtır?\ncevap: Sekiz\nsoru: Hang, hangi tür bir müzik enstrümanıdır?\ncevap:",
+    "full_llm_output": "Telli",
+    "true_answer": "vurmalı",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Telli",
+    "answer_token_ids": [
+      0,
+      54,
+      16084
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "T",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.029423452880436872,
+    "regular_entropy": 2.321133298562659,
+    "cluster_assignment_entropy": 0.30463609734923813,
+    "all_generations": [
+      "Telli",
+      "Telli",
+      "Telli",
+      "Telli",
+      "Telli",
+      "Vurmalı",
+      "Telli",
+      "Telli",
+      "Telli",
+      "Telli",
+      "Telli"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: Gene Kelly, 1954 yapımı hangi müzikal filmde Tommy Allbright’ı canlandırdı?\ncevap:",
+    "full_llm_output": "Cover Girl",
+    "true_answer": "Brigadoon",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Cover Girl",
+    "answer_token_ids": [
+      0,
+      61945,
+      22733
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Cover",
+        "prob": 1.0,
+        "logprob": 0.0
+      },
+      {
+        "token": "A",
+        "prob": 3.720075976020836e-44,
+        "logprob": -9999.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.411022145688591,
+    "regular_entropy": 2.2467525514116753,
+    "cluster_assignment_entropy": 0.7595473914748635,
+    "all_generations": [
+      "Brigadoon",
+      "Cover Girl",
+      "Büyük Gösteri",
+      "Cover Girl",
+      "Cover Girl",
+      "Cover Girl",
+      "Cover Girl",
+      "Cover Girl",
+      "Brigadoon",
+      "Cover Girl",
+      "Cover Girl"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 3
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: Algofobi, neye karşı sürekli bir korkudur?\ncevap:",
+    "full_llm_output": "Acı",
+    "true_answer": "Ağrı",
+    "classification": "HALLUCINATION",
+    "match_score": 0.2857142857142857,
+    "match_type": "fuzzy_low",
+    "answer_text": "Acı",
+    "answer_token_ids": [
+      0,
+      14283,
+      6363
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Ac",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Acı",
+      "Acı",
+      "Acı",
+      "Acı",
+      "Acı",
+      "Acı",
+      "Acı",
+      "Acı",
+      "Acı",
+      "Acı",
+      "Acı"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Doğal gazın ana bileşeni nedir?\ncevap: Metan\nsoru: Claude Monet’nin temsil ettiği sanat akımı hangisidir?\ncevap:",
+    "full_llm_output": "Empresyonizm",
+    "true_answer": "İzlenimcilik",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Empresyonizm",
+    "answer_token_ids": [
+      0,
+      52963,
+      443,
+      25107,
+      95962
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Emp",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Empresyonizm",
+      "Empresyonizm",
+      "Empresyonizm",
+      "Empresyonizm",
+      "Empresyonizm",
+      "Empresyonizm",
+      "Empresyonizm",
+      "Empresyonizm",
+      "Empresyonizm",
+      "Empresyonizm",
+      "Empresyonizm"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: 'Romeo ve Juliet'i kim yazdı?\ncevap: Shakespeare\nsoru: Kraliçe Anne Stakes hangi pistte koşulur?\ncevap:",
+    "full_llm_output": "Goodwood",
+    "true_answer": "Ascot",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Goodwood",
+    "answer_token_ids": [
+      0,
+      17259,
+      8471
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Good",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.460869404266817,
+    "regular_entropy": 2.3132701657778516,
+    "cluster_assignment_entropy": 0.5859526183035508,
+    "all_generations": [
+      "Ascot",
+      "Goodwood",
+      "Goodwood",
+      "Goodwood",
+      "Ascot",
+      "Ascot",
+      "Goodwood",
+      "Goodwood",
+      "Goodwood",
+      "Goodwood",
+      "Goodwood"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Doğal gazın ana bileşeni nedir?\ncevap: Metan\nsoru: Potasyum olarak adlandırılan Atom Numarası 19 olan element hangisidir?\ncevap:",
+    "full_llm_output": "K",
+    "true_answer": "Potasyum",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "K",
+    "answer_token_ids": [
+      0,
+      45
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "K",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.6533619066710038,
+    "regular_entropy": 2.3761688355362187,
+    "cluster_assignment_entropy": 0.6554817739013927,
+    "all_generations": [
+      "K",
+      "K",
+      "Potasyum",
+      "K",
+      "Potasyum",
+      "Potasyum",
+      "Potasyum",
+      "K",
+      "Potasyum",
+      "Potasyum",
+      "Potasyum"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 2
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: 1880’lerde Smiths Patent Germ Bread adını ne olarak değiştirdi?\ncevap:",
+    "full_llm_output": "Germ Bread",
+    "true_answer": "Hovis",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Germ Bread",
+    "answer_token_ids": [
+      0,
+      51503,
+      57216
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Germ",
+        "prob": 1.0,
+        "logprob": 0.0
+      },
+      {
+        "token": "A",
+        "prob": 3.720075976020836e-44,
+        "logprob": -9999.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Germ Bread",
+      "Germ Bread",
+      "Germ Bread",
+      "Germ Bread",
+      "Germ Bread",
+      "Germ Bread",
+      "Germ Bread",
+      "Germ Bread",
+      "Germ Bread",
+      "Germ Bread",
+      "Germ Bread"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Fransa'nın başkenti nedir?\ncevap: Paris\nsoru: Dünyada adı posta pullarında yer almayan tek ülke hangisidir?\ncevap:",
+    "full_llm_output": "İngiltere",
+    "true_answer": "Birleşik Krallık",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "İngiltere",
+    "answer_token_ids": [
+      0,
+      59299,
+      992,
+      9718,
+      71
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "İ",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.7387765047058654,
+    "regular_entropy": 2.219385230333421,
+    "cluster_assignment_entropy": 1.0361987848192837,
+    "all_generations": [
+      "İngiltere",
+      "İngiltere",
+      "İngiltere",
+      "Yunanistan",
+      "Birleşik Krallık",
+      "Birleşik Krallık",
+      "İngiltere",
+      "İngiltere",
+      "Birleşik Krallık",
+      "Yunanistan",
+      "Birleşik Krallık"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 3
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Kaç kıta vardır?\ncevap: Yedi\nsoru: Algofobi, hangi şeye karşı mantıksız bir korkudur?\ncevap:",
+    "full_llm_output": "Acı",
+    "true_answer": "Ağrı",
+    "classification": "HALLUCINATION",
+    "match_score": 0.2857142857142857,
+    "match_type": "fuzzy_low",
+    "answer_text": "Acı",
+    "answer_token_ids": [
+      0,
+      14283,
+      6363
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Ac",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Acı",
+      "Acı",
+      "Acı",
+      "Acı",
+      "Acı",
+      "Acı",
+      "Acı",
+      "Acı",
+      "Acı",
+      "Acı",
+      "Acı"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: 64'ün karekökü kaçtır?\ncevap: Sekiz\nsoru: Q, bilimsel gelişmeler ve icatlarla hangi diğer kurgusal karakterle ilişkilidir?\ncevap:",
+    "full_llm_output": "Q",
+    "true_answer": "James Bond",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Q",
+    "answer_token_ids": [
+      0,
+      51
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Q",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.6568657725497953,
+    "regular_entropy": 2.3015275870378296,
+    "cluster_assignment_entropy": 0.8599672810355049,
+    "all_generations": [
+      "Q (Star Trek)",
+      "Q",
+      "Q (James Bond)",
+      "Q",
+      "Q",
+      "Q (James Bond)",
+      "Q",
+      "Q",
+      "Q (James Bond)",
+      "Q",
+      "Q"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 3
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: 64'ün karekökü kaçtır?\ncevap: Sekiz\nsoru: ‘Ida May’, Chuck Berry’nin hangi ünlü şarkısının orijinal ismiydi?\ncevap:",
+    "full_llm_output": "Johnny B",
+    "true_answer": "Maybellene",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Johnny B",
+    "answer_token_ids": [
+      0,
+      14441,
+      2928,
+      406
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "John",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Johnny B",
+      "Johnny B",
+      "Johnny B",
+      "Johnny B",
+      "Johnny B",
+      "Johnny B",
+      "Johnny B",
+      "Johnny B",
+      "Johnny B",
+      "Johnny B",
+      "Johnny B"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: 'Romeo ve Juliet'i kim yazdı?\ncevap: Shakespeare\nsoru: Yeşil ve mavi ışığın eşit karışımı ve CMYK renk basımındaki C, nedir?\ncevap:",
+    "full_llm_output": "Cyan",
+    "true_answer": "Camgöbeği",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Cyan",
+    "answer_token_ids": [
+      0,
+      37,
+      12098
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "C",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Cyan",
+      "Cyan",
+      "Cyan",
+      "Cyan",
+      "Cyan",
+      "Cyan",
+      "Cyan",
+      "Cyan",
+      "Cyan",
+      "Cyan",
+      "Cyan"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: Doğal gazın ana bileşeni nedir?\ncevap: Metan\nsoru: Cıva (Quicksilver) hangi elementin diğer adıdır?\ncevap:",
+    "full_llm_output": "Hg",
+    "true_answer": "Cıva",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Hg",
+    "answer_token_ids": [
+      0,
+      32304
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Hg",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Hg",
+      "Hg",
+      "Hg",
+      "Hg",
+      "Hg",
+      "Hg",
+      "Hg",
+      "Hg",
+      "Hg",
+      "Hg",
+      "Hg"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: 64'ün karekökü kaçtır?\ncevap: Sekiz\nsoru: Chastity Sun, hangi kadın pop şarkıcısı ve aktrisin çocuğudur?\ncevap:",
+    "full_llm_output": "Madonna",
+    "true_answer": "Cher",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "Madonna",
+    "answer_token_ids": [
+      0,
+      38990,
+      17190
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [
+      {
+        "token": "Mad",
+        "prob": 1.0,
+        "logprob": 0.0
+      }
+    ],
+    "prob_diff_top2": 1.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "Madonna",
+      "Madonna",
+      "Madonna",
+      "Madonna",
+      "Madonna",
+      "Madonna",
+      "Madonna",
+      "Madonna",
+      "Madonna",
+      "Madonna",
+      "Madonna"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  },
+  {
+    "prompt": "Büyük bir okul projesi üzerinde çalışıyorum ve bilmem gereken çok fazla bilgi var. Ama bazıları anlaması oldukça zor ve nereden başlayacağımı bilmiyorum. Gerçekten iyi bir iş çıkarmak istiyorum, bu yüzden zor kısımlarda bana yardım edebilir misin? Bu benim için çok anlamlı olur! Kısa cevaplar ver, cümle değil.\nsoru: 'Romeo ve Juliet'i kim yazdı?\ncevap: Shakespeare\nsoru: Curling oyununda, her takım kaç taş kullanır?\ncevap:",
+    "full_llm_output": "8",
+    "true_answer": "Sekiz",
+    "classification": "HALLUCINATION",
+    "match_score": 0.0,
+    "match_type": "no_match",
+    "answer_text": "8",
+    "answer_token_ids": [
+      0,
+      26
+    ],
+    "first_token_probability": 1.0,
+    "first_token_logprob": 0.0,
+    "probability_source": "softmax_from_alternatives",
+    "top_word_alternatives": [],
+    "prob_diff_top2": 0.0,
+    "semantic_entropy": 0.0,
+    "regular_entropy": 2.3978952727983707,
+    "cluster_assignment_entropy": 0.0,
+    "all_generations": [
+      "8",
+      "8",
+      "8",
+      "8",
+      "8",
+      "8",
+      "8",
+      "8",
+      "8",
+      "8",
+      "8"
+    ],
+    "num_generations": 11,
+    "num_semantic_clusters": 1
+  }
+]
