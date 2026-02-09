@@ -5,7 +5,34 @@ This repository contains the code and experimental setup for the thesis project 
 
 The experiments evaluate how hallucinations manifest across **English, Turkish, and Malayalam**, using controlled decoding strategies, multilingual embeddings, translation pipelines, and semantic entropy–based sampling.
 
----
+
+# Abstract
+
+Large Language Models (LLMs) frequently generate hallucinations that undermine their reliability in knowledge
+intensive applications. A particularly concerning subset of these hallucinations is CHOKE (Certain Hallucinations
+Overriding Known Evidence), where LLMs produce incorrect responses with high confidence despite possessing
+the correct knowledge. While CHOKE has been identified in English only settings, its manifestation across
+typologically diverse languages remains unexplored.
+This thesis presents a systematic multilingual analysis of CHOKE, examining their prevalence and detectability
+across three languages representing different resource levels: English (high-resource), Turkish (medium-resource)
+and Malayalam (low-resource). Using an adapted TriviaQA dataset with human verified translations, we
+evaluate two LLMs GPT-4o-mini and DeepSeek V3 across two persona based prompt settings designed to induce
+hallucinations.
+We quantify CHOKE using three certainty metrics: first token probability, probability difference, and semantic
+entropy. Our experiments reveal that CHOKE exist across LLMs, with prevalence increasing substantially as
+language resource level decreases. In GPT-4o-mini, CHOKE rates are substantially lower in English and rise
+sharply in Malayalam, whereas DeepSeek V3 displays an almost universal level of overconfidence, with probability
+based CHOKE rates remaining extremely high across all evaluated languages. Semantic entropy emerges as the
+most robust and language-agnostic metric for CHOKE detection, maintaining partial discriminative power even
+where probability-based metrics fail.
+Furthermore, we demonstrate that existing uncertainty-based mitigation strategies are less effective in low
+resource languages, with predictive entropy outperforming probability-based approaches on DeepSeek. Our
+f
+indings indicate that certainty metrics calibrated on English do not transfer reliably to morphologically complex,
+low-resource languages, highlighting the need for language specific detection thresholds and culturally aware
+evaluation frameworks.
+
+
 
 ## 📌 Project Overview
 
@@ -16,8 +43,6 @@ The **CHOKE framework** is designed to probe and analyze hallucinations in LLM r
 * Measuring semantic uncertainty and answer variability
 * Comparing hallucination patterns across languages
 
----
-
 ## 🧪 Experimental Setup
 
 ### Large Language Models (LLMs)
@@ -27,15 +52,9 @@ The **CHOKE framework** is designed to probe and analyze hallucinations in LLM r
   * Accessed via **OpenAI API v1**
 * **DeepSeek V3** (DeepSeek AI, 2024)
 
-  * Accessed via **DeepSeek API v1**
-
----
-
 ### Dataset
 
 * **TriviaQA** (Joshi et al., 2017)
-
----
 
 ### Languages
 
@@ -43,16 +62,14 @@ The **CHOKE framework** is designed to probe and analyze hallucinations in LLM r
 * Turkish
 * Malayalam
 
----
-
 ### Translation Tools
 
 Used in combination with **human annotation**:
 
 * Google Translate (2026)
 * NLLB (No Language Left Behind)
+* GPT-4o-mini
 
----
 
 ## 🔤 Tokenization
 
