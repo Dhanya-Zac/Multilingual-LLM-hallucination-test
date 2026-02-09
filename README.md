@@ -1,8 +1,3 @@
-Nice topic 👌 — here’s a **clean, thesis-ready GitHub README.md** you can drop straight into your repo. It’s written in clear academic-technical style, but still GitHub-friendly.
-
-You can tweak wording later if your supervisor wants it more formal.
-
----
 
 # Multilingual Analysis of CHOKE Hallucinations
 
