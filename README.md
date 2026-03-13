@@ -144,6 +144,11 @@ Used for fuzzy matching of multilingual answers:
 * API keys for OpenAI and DeepSeek are stored as **Google Colab Secrets**
 * Prevents accidental exposure of credentials in notebooks or logs
 
+## Dataset Contributer
+
+Turkish : İtem Ateş
+Malayalam : Digin Zacharias, Augusto Patrick,  Jeniro Jenson, Anwin C. M, Dhanya Zacharias
+English : TRIVIAQA dataset ( Original)
 
 
 ## 📦 Key Libraries
@@ -169,11 +174,7 @@ sentence-transformers
 scikit-learn
 seaborn
 
-## Dataset Contributer
 
-Turkish : İtem Ateş
-Malayalam : Digin Zacharias, Augusto Patrick,  Jeniro Jenson, Anwin C. M, Dhanya Zacharias
-English : TRIVIAQA dataset ( Original)
 ## 📬 Contact
 
 For questions or collaboration related to this thesis work, feel free to open an issue or contact me in dhnzchrs@gmail.com
