@@ -168,7 +168,7 @@ sentence-transformers
 scikit-learn
 seaborn
 
-## Dataset Contributer
+## Dataset Contributers
 
 Turkish : İtem Ateş
 
