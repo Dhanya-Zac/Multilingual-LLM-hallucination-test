@@ -170,7 +170,7 @@ seaborn
 
 ## Dataset Contributers
 
-Turkish : İtem Ateş
+Turkish : İrem Ateş, Meltem Aksoy
 
 Malayalam : Digin Zacharias, Augusto Patrick,  Jeniro Jenson, Anwin C. M, Dhanya Zacharias
 
